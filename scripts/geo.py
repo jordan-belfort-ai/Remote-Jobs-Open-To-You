@@ -88,6 +88,15 @@ _STATE_NAME_RE = re.compile(r"(?<!\w)(" + "|".join(sorted(US_STATES.values(), ke
 _PROV_NAME_RE = re.compile(r"(?<!\w)(" + "|".join(CA_PROVINCES.values()) + r")(?!\w)")
 _ABBR_RE = re.compile(r"(?:^|,|\s-|\(|[a-z]\s)\s*([A-Z]{2})(?=\b(?!\.))")  # 'Austin, TX', 'ND, Fargo', 'Olathe KS', 'Boston (MA)'
 _ISO2 = set(_NAMES.values())
+_ISO3 = {"USA": "US", "CAN": "CA", "MEX": "MX", "BRA": "BR", "ARG": "AR", "CHL": "CL", "COL": "CO", "PER": "PE",
+         "GBR": "GB", "IRL": "IE", "FRA": "FR", "DEU": "DE", "ESP": "ES", "PRT": "PT", "ITA": "IT", "NLD": "NL",
+         "BEL": "BE", "CHE": "CH", "AUT": "AT", "POL": "PL", "CZE": "CZ", "HUN": "HU", "ROU": "RO", "BGR": "BG",
+         "SWE": "SE", "NOR": "NO", "DNK": "DK", "FIN": "FI", "GRC": "GR", "TUR": "TR", "ISR": "IL", "ARE": "AE",
+         "SAU": "SA", "EGY": "EG", "ZAF": "ZA", "NGA": "NG", "KEN": "KE", "MAR": "MA", "IND": "IN", "PAK": "PK",
+         "CHN": "CN", "JPN": "JP", "KOR": "KR", "SGP": "SG", "MYS": "MY", "PHL": "PH", "IDN": "ID", "THA": "TH",
+         "VNM": "VN", "AUS": "AU", "NZL": "NZ", "SVK": "SK", "LTU": "LT", "LVA": "LV", "EST": "EE", "HRV": "HR",
+         "SRB": "RS", "UKR": "UA", "LUX": "LU", "CRI": "CR", "URY": "UY", "TWN": "TW", "HKG": "HK"}
+_ISO3_RE = re.compile(r"^\s*(" + "|".join(_ISO3) + r")\s*[-,|/]\s")
 _CITY_RE_IN = dict(_CITY_RE)["IN"]
 
 # Checked only after the US/Canada checks fail, so 'Lebanon, NH' or 'Athens, GA' stay American.
@@ -130,6 +139,9 @@ def from_text(text: str | None) -> str | None:
     """Country of a free-text location, or None when it doesn't say ('Remote', '3 Locations')."""
     if not text:
         return None
+    m = _ISO3_RE.match(text)  # DXC's 'ESP - CT - SANT CUGAT', 'IND - TN - CHENNAI': CT/TN aren't US states here (4 Nov)
+    if m:
+        return _ISO3[m.group(1)]
     low = text.lower()
     m = _NAME_RE.search(low.replace("new mexico", "nm"))
     if m:
@@ -231,7 +243,13 @@ _REGIONS = [
     (r"mena|middle east", _MIDEAST | {"MA", "DZ", "TN", "LY"}), (r"africa", _AFRICA),
 ]
 _REGION_RE = [(re.compile(r"(?<![\w])(?:" + p + r")(?![\w])"), codes) for p, codes in _REGIONS]
-_WORLD_RE = re.compile(r"(?<![\w])(anywhere|worldwide|global|globally|international|any location|work from anywhere)(?![\w])")
+# "global" and "international" count only beside a remote word or on their own: office and company names carry them
+# ("Envoy Global", "Global HQ", "International House"; 4 Nov: two US-only jobs passed remoteFromCountries Germany that way)
+_GLOBALISH = r"(?:global|globally|international)"
+_WORLD_RE = re.compile(r"(?<![\w])(anywhere|worldwide|any location|work from anywhere)(?![\w])"
+                       r"|^\W*(?:(?:fully\s+)?remote\W*)?" + _GLOBALISH + r"(?:\W*remote)?\W*$"
+                       r"|(?<![\w])(?:remote|distributed)\W+(?:\w+\W+)?" + _GLOBALISH + r"(?![\w])"
+                       r"|(?<![\w])" + _GLOBALISH + r"\W+(?:\w+\W+)?(?:remote|distributed)(?![\w])")
 
 
 def remote_open_to(row: dict, wanted: set[str]) -> bool:
