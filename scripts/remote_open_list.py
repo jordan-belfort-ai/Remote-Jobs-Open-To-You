@@ -146,7 +146,7 @@ def main():
          f"This list keeps the {len(jobs):,} that say who can apply: **worldwide**, a **region** (EMEA, LATAM, APAC, Europe, Africa) "
          "or a named country outside the US. Read daily from Greenhouse, Ashby, Lever, Workday, SmartRecruiters, Workable, "
          "Recruitee, Teamtailor and Personio boards; every link goes to the employer's own posting. 🆕 = last 2 days.", "",
-         "**Pick your country on the filterable page: [remote-jobs-open-to-you.surge.sh](https://remote-jobs-open-to-you.surge.sh/)**", "",
+         "**Pick your country on the filterable page: [jordan-belfort-ai.github.io/Remote-Jobs-Open-To-You](https://jordan-belfort-ai.github.io/Remote-Jobs-Open-To-You/)**", "",
          "Open to (incl. worldwide and regional roles): " + ", ".join(f"{c} {n}" for c, n in
             sorted(((c, cnt[c] + sum(j['world'] for j in jobs)) for c in ["IN", "BR", "MX", "AR", "CO", "NG", "KE", "ZA", "PH", "PK", "VN", "PL", "PT", "ES", "DE", "GB"]),
                    key=lambda x: -x[1])), ""]
@@ -158,7 +158,7 @@ def main():
         for j in sel[:300]:
             L.append(f"| {md(j['company'])} | {'🆕 ' if j['new'] else ''}[{md(j['title'])}]({j['url']}) | {md(label(j))} | {md(j['pay'])} | {j['posted']} |")
         if len(sel) > 300:
-            L.append(f"| | {len(sel) - 300} more on the [filterable page](https://remote-jobs-open-to-you.surge.sh/) | | | |")
+            L.append(f"| | {len(sel) - 300} more on the [filterable page](https://jordan-belfort-ai.github.io/Remote-Jobs-Open-To-You/) | | | |")
         L.append("")
     L += ["## How \"open to\" is read", "",
           "A location naming a country counts for that country only (\"Remote - Poland\" is PL). A location naming no country "
