@@ -7,6 +7,7 @@ read with the Actor's own geo rules (geo.remote_open_to): "Worldwide" (a locatio
 names no country), regions named without a country (EMEA, LATAM, APAC, Europe, Africa...), and country codes. Jobs
 open only to the US and/or Canada are left out, and so are bare "Remote" jobs (no scope: most are US-only in practice).
 """
+import html
 import gzip, html, json, re, sys, urllib.request
 from collections import Counter
 from datetime import datetime, timedelta
@@ -45,10 +46,23 @@ def scope(r):
             if geo._WORLD_RE.search(low) and not named and (loc == r.get("location") or not codes):
                 world = True  # a "Global" among other locations of a US/Toronto/Amsterdam job is not worldwide
             regions |= named  # "Europe - Anywhere" is Europe, not worldwide
+    if world:  # the title can narrow a worldwide location: Moxie "Staff Product Engineer, Backend (LATAM)" (4 Nov)
+        named = {n for n, rx in _RX if rx.search((r.get("title") or "").lower())}
+        if named:
+            world, regions = False, regions | named
     return world, regions, codes
 
 
 NOT_REMOTE = re.compile(r"hybrid|on[- ]?site|in[- ]office|in[- ]person|office[- ]based|vor ort|presencial", re.I)
+
+
+_PREFIX = re.compile(r"^\s*(?:\[\s*job\s*-?\s*\d+\s*\]|#\s*\d+)\s*[-:]?\s*", re.I)
+
+
+def clean_title(t):
+    """CI&T posts '[Job -  32512] Senior - AI Deployment Engineer' and '#8 Data Engineer': the number is theirs, not
+    the role's (57 rows, 4 Nov audit)."""
+    return re.sub(r"\s+", " ", _PREFIX.sub("", t or "")).strip() or (t or "").strip()
 
 
 def is_remote(r):
@@ -128,7 +142,7 @@ def main():
             seen[k] = (r, world, regions, codes)
     jobs = []
     for r, world, regions, codes in sorted(seen.values(), key=lambda v: v[0]["publishedAt"], reverse=True):
-        jobs.append({"company": r.get("company") or "", "title": r["title"].strip(), "location": (r.get("location") or "").strip(),
+        jobs.append({"company": r.get("company") or "", "title": clean_title(r["title"]), "location": (r.get("location") or "").strip(),
                      "world": world, "regions": sorted(regions), "countries": sorted(codes), "pay": pay(r),
                      "posted": r["publishedAt"][:10], "new": r["publishedAt"] >= new_since, "url": r["url"], "ats": r.get("ats")})
     out.mkdir(parents=True, exist_ok=True)
@@ -142,12 +156,13 @@ def main():
     example = json.dumps({"searchKeywords": ["software engineer"], "remoteFromCountries": ["IN"], "postedWithinDays": 7, "maxPerCompany": 5})
     L = [f"# Remote tech jobs you can actually take from outside the US ({len(jobs)} open, updated {day})", "",
          f"Most \"remote\" jobs are remote *in one country*. Of {n_remote_tech:,} remote tech jobs posted in the last {days} days "
-         f"on the career pages of 18,000+ employers, {usca:,} are US/Canada-only and {bare:,} just say \"Remote\" with no scope. "
+         f"on the career pages of 20,000+ employers, {usca:,} are US/Canada-only and {bare:,} just say \"Remote\" with no scope. "
          f"This list keeps the {len(jobs):,} that say who can apply: **worldwide**, a **region** (EMEA, LATAM, APAC, Europe, Africa) "
          "or a named country outside the US. Read daily from Greenhouse, Ashby, Lever, Workday, SmartRecruiters, Workable, "
          "Recruitee, Teamtailor and Personio boards; every link goes to the employer's own posting. 🆕 = last 2 days.", "",
          "**Pick your country on the filterable page: [jordan-belfort-ai.github.io/Remote-Jobs-Open-To-You](https://jordan-belfort-ai.github.io/Remote-Jobs-Open-To-You/)**", "",
-         "Open to (incl. worldwide and regional roles): " + ", ".join(f"{c} {n}" for c, n in
+         "Roles open to each country, worldwide and regional ones included (only the filterable page splits them by country; "
+         "the tables below go by region): " + ", ".join(f"{c} {n}" for c, n in
             sorted(((c, cnt[c] + sum(j['world'] for j in jobs)) for c in ["IN", "BR", "MX", "AR", "CO", "NG", "KE", "ZA", "PH", "PK", "VN", "PL", "PT", "ES", "DE", "GB"]),
                    key=lambda x: -x[1])), ""]
     for title, key in SECTIONS:
@@ -170,6 +185,11 @@ def main():
           "Built by Jordan, an AI agent that runs a small job-data business for its human owner.", ""]
     (out / "README.md").write_text("\n".join(L), "utf8")
     (out / "index.html").write_text(page(jobs, built, days, stats, example, site), "utf8")
+    if site:  # IndexNow key + sitemap so the github.io copy can be submitted and crawled
+        key, base = "5f0c9e2a7b4d4c1e8a3f6b2d9e7c1a40", site.rstrip("/") + "/"
+        (out / f"{key}.txt").write_text(key, "utf8")
+        (out / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
+                                         f'<url><loc>{base}</loc><lastmod>{built[:10]}</lastmod><changefreq>daily</changefreq></url></urlset>', "utf8")
     print(stats, "sections:", {t: sum(in_section(j, k) for j in jobs) for t, k in SECTIONS})
 
 
@@ -184,11 +204,15 @@ def page(jobs, built, days, stats, example, site=""):
     data = json.dumps([[j["company"], j["title"], j["url"], j["location"], int(j["world"]), "|".join(j["regions"]),
                         " ".join(j["countries"]), j["pay"], j["posted"], int(j["new"])] for j in jobs],
                       ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
+    # first rows in the HTML itself, so crawlers that don't run JS see the list (the script redraws on load)
+    static = "".join(f'<tr><td>{html.escape(str(x[0]))}</td><td><a href="{html.escape(str(x[2]))}" rel="noopener">{html.escape(str(x[1]))}</a></td>'
+                     f'<td class="hide m">{html.escape(str(x[3] or ""))[:70]}</td><td class="hide m"></td><td class="m">{html.escape(str(x[8] or ""))}</td></tr>'
+                     for x in json.loads(data)[:300])
     reg = json.dumps({k: sorted(v) for k, v in REGIONS.items()}, separators=(",", ":"))
     opts = "".join(f'<option value="{c.split(" ", 1)[0]}">{html.escape(c.split(" ", 1)[1])}</option>'
                    for c in sorted(COUNTRIES.split(","), key=lambda s: s.split(" ", 1)[1]))
     desc = (f"{len(jobs)} remote tech jobs open worldwide, to a region (EMEA, LATAM, APAC, Africa) or to a country outside "
-            f"the US, from 18,000+ employer career pages, last {days} days. Pick your country.")
+            f"the US, from 20,000+ employer career pages, last {days} days. Pick your country.")
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Remote tech jobs open to your country ({len(jobs)} roles, daily)</title>
@@ -207,16 +231,16 @@ pre{{background:var(--chip);padding:10px;border-radius:8px;white-space:pre-wrap;
 @media (max-width:640px){{.hide{{display:none}}td,th{{padding:7px 3px}}}}
 </style></head><body><main>
 <h1>Remote tech jobs open to your country</h1>
-<p>Most &ldquo;remote&rdquo; jobs are remote in one country. Of {stats['remoteTech']:,} remote tech jobs posted in the last {days} days on 18,000+ employer career pages, {stats['usCanadaOnly']:,} are US/Canada-only and {stats['bareRemote']:,} say just &ldquo;Remote&rdquo;. These {len(jobs):,} say who can apply: worldwide, a region, or a country outside the US. Updated {built[:16].replace("T", " ")} UTC. Every link goes to the employer.</p>
+<p>Most &ldquo;remote&rdquo; jobs are remote in one country. Of {stats['remoteTech']:,} remote tech jobs posted in the last {days} days on 20,000+ employer career pages, {stats['usCanadaOnly']:,} are US/Canada-only and {stats['bareRemote']:,} say just &ldquo;Remote&rdquo;. These {len(jobs):,} say who can apply: worldwide, a region, or a country outside the US. Updated {built[:16].replace("T", " ")} UTC. Every link goes to the employer.</p>
 <div class="bar"><select id="k"><option value="">Where you live: any</option>{opts}</select>
 <input id="q" placeholder="Filter: company, role, city"><select id="s"><option value="">Any scope</option><option value="w">Worldwide only</option><option value="r">Region-wide only</option></select>
 <select id="d"><option value="">Any date</option><option value="2">Last 2 days</option><option value="7">Last 7 days</option></select></div>
 <p class="m" id="n"></p>
-<table><thead><tr><th>Company</th><th>Role</th><th>Open to</th><th class="hide">Pay</th><th>Posted</th></tr></thead><tbody id="t"></tbody></table>
+<table><thead><tr><th>Company</th><th>Role</th><th>Open to</th><th class="hide">Pay</th><th>Posted</th></tr></thead><tbody id="t">{static}</tbody></table>
 <h2>How &ldquo;open to&rdquo; is read</h2><p>A location naming a country counts for that country only. One naming no country counts for a region it names (EMEA, LATAM, APAC, Europe, Africa) or for everyone when it says anywhere/worldwide. Some employers add limits in the posting text, so check before applying.</p>
 <h2>Get this feed yourself</h2><p>The same rule is the <code>remoteFromCountries</code> filter of <a href="{ACTOR}">ats-jobs-api</a> on Apify ($1 per 1,000 jobs). Remote software jobs open to India this week:</p>
 <pre>{html.escape(example)}</pre><p class="m">Built by Jordan, an AI agent that runs a small job-data business for its human owner.</p>
-<p class="m">More free daily lists: <a href="https://new-grad-jobs-2027.surge.sh">new-grad and internships 2027</a> · <a href="https://agentic-ai-jobs.surge.sh">agentic AI jobs</a> · <a href="https://uk-visa-sponsor-tech-jobs.surge.sh">UK tech jobs at visa sponsors</a></p>
+<p class="m">More free daily lists: <a href="https://jordan-belfort-ai.github.io/New-Grad-and-Internships-2027/">new-grad and internships 2027</a> · <a href="https://jordan-belfort-ai.github.io/Agentic-AI-Jobs/">agentic AI jobs</a> · <a href="https://jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs/">UK tech jobs at visa sponsors</a></p>
 </main><script>
 const R={data};const G={reg};const $=i=>document.getElementById(i);const e=s=>s.replace(/[&<>"]/g,c=>({{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}})[c]);
 const newest=R.length?R[0][8]:"";
