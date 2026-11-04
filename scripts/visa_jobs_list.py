@@ -117,7 +117,7 @@ def main():
          "matched to the register by exact legal name, so some sponsors are missing (a different legal name) rather "
          "than wrongly included. 🆕 = posted in the last 2 days.", "",
          f"**{len(jobs)} roles at {emp} sponsors.** Most open: " + ", ".join(f"{c} ({n})" for c, n in top), "",
-         "Filterable page: [uk-visa-sponsor-tech-jobs.surge.sh](https://uk-visa-sponsor-tech-jobs.surge.sh/)", "",
+         "Filterable page: [jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs](https://jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs/)", "",
          "| Company | Role | Location | Pay | Posted |", "| --- | --- | --- | --- | --- |"]
     for j in jobs:
         wp = f" ({j['workplace']})" if j["workplace"] else ""
