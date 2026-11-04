@@ -6,6 +6,7 @@ Licence), found through the gov.uk content API. Match: employer name equals a re
 forms (Ltd, Limited, PLC, LLP, Inc), "UK"/"(UK)" and "The"; anything looser matched namesakes (4 Nov: "Wise" -> a
 charity, "Starling" -> Starling Group Ltd). A licensed sponsor need not sponsor every role, and the page says so.
 """
+import html
 import csv, gzip, html, io, json, re, sys, urllib.request
 from collections import Counter
 from datetime import datetime, timedelta
@@ -28,7 +29,22 @@ TECH = re.compile(r"\b(software|data|ml|ai|machine learning|devops|cloud|platfor
                   r"\bux\b|\b(software|solutions?|cloud|data|enterprise|technical|security|platform) architect|\bsre\b|"
                   r"machine learning|\bml\b|\bai\b engineer|programmer", re.I)
 NOT = re.compile(r"civil|structural|mechanical|electrical|building|site |construction|hvac|plumb|nurse|care |sales|"
-                 r"account (manager|executive)|recruit", re.I)
+                 r"account (manager|executive)|recruit|cost manager|commercial developer|marketing|content|activation|onboarding|partner -", re.I)
+
+
+def gb_location(r):
+    """The UK place to print: a multi-site role with one UK site printed its first site, so 55 of 702 rows showed
+    Poland, Pittsburgh or Zurich (4 Nov audit). None when no location string names the UK."""
+    other = (r.get("country") or "GB").upper() != "GB"  # PNC's "Birmingham - Brock (AL112)" is Alabama
+    for loc in [r.get("location"), *(r.get("allLocations") or [])]:
+        if isinstance(loc, str) and loc.strip() and "GB" in country_codes({"location": loc}):
+            if other and not UK_WORD.search(loc):
+                continue
+            return loc.strip()
+    return None
+
+
+UK_WORD = re.compile(r"\b(uk|u\.k\.|united kingdom|great britain|england|scotland|wales|northern ireland|london)\b", re.I)
 
 
 def norm(s):
@@ -91,17 +107,18 @@ def main():
     for r in rows(opt("--rows")):
         t = (r.get("title") or "").strip()
         if (not r.get("url") or (r.get("publishedAt") or "") < since or not TECH.search(t) or NOT.search(t)
-                or "GB" not in country_codes(r)):
+                or "GB" not in country_codes(r) or not gb_location(r)):
             continue
         legal = reg.get(norm(r.get("company")))
         if not legal:
             continue
-        k = ((r.get("company") or "").lower(), re.sub(r"\s+", " ", t.lower()))
-        if k not in seen or r["publishedAt"] > seen[k]["publishedAt"]:
+        k = ((r.get("company") or "").lower(), re.sub(r"\s+", " ", t.split(" | ")[0].lower()))  # Grafana: "X | Spain | Remote" x7
+        uk = lambda x: bool(UK_WORD.search(x.get("title") or ""))  # noqa: E731  Grafana "X | UK | Remote" over "X | USA | Remote"
+        if k not in seen or (uk(r), r["publishedAt"]) > (uk(seen[k]), seen[k]["publishedAt"]):
             r["_legal"] = legal
             seen[k] = r
     jobs = [{"company": r.get("company") or "", "sponsor": r["_legal"], "title": r["title"].strip(),
-             "location": (r.get("location") or "").strip(), "workplace": r.get("workplaceType") or "", "pay": pay(r),
+             "location": gb_location(r), "workplace": r.get("workplaceType") or "", "pay": pay(r),
              "posted": r["publishedAt"][:10], "new": r["publishedAt"] >= new_since, "url": r["url"]}
             for r in sorted(seen.values(), key=lambda r: r["publishedAt"], reverse=True)]
     out.mkdir(parents=True, exist_ok=True)
@@ -131,6 +148,10 @@ def main():
     data = json.dumps([[j["company"], j["sponsor"], j["title"], j["url"], j["location"], j["workplace"], j["pay"],
                         j["posted"], int(j["new"])] for j in jobs], ensure_ascii=False,
                       separators=(",", ":")).replace("</", "<\\/")
+    # first rows in the HTML itself, so crawlers that don't run JS see the list (the script redraws on load)
+    static = "".join(f'<tr><td>{html.escape(str(x[0]))}</td><td><a href="{html.escape(str(x[3]))}" rel="noopener">{html.escape(str(x[2]))}</a></td>'
+                     f'<td class="hide m">{html.escape(str(x[4] or ""))[:70]}</td><td class="hide m"></td><td class="m">{html.escape(str(x[7] or ""))}</td></tr>'
+                     for x in json.loads(data)[:300])
     desc = (f"{len(jobs)} UK tech jobs at {emp} employers on the Home Office register of licensed visa sponsors, posted "
             f"in the last {days} days, read daily from company career pages. Every link goes to the employer.")
     page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
@@ -156,10 +177,10 @@ pre{{background:var(--chip);padding:10px;border-radius:8px;font-size:13px}}
 <div class="bar"><input id="q" placeholder="Filter: company, role, city"><select id="w"><option value="">Any work model</option><option>remote</option><option>hybrid</option><option>onsite</option></select>
 <select id="d"><option value="">Any date</option><option value="2">Last 2 days</option><option value="7">Last 7 days</option></select></div>
 <p class="m" id="n"></p>
-<table><thead><tr><th>Company</th><th>Role</th><th class="hide">Location</th><th class="hide">Pay</th><th>Posted</th></tr></thead><tbody id="t"></tbody></table>
+<table><thead><tr><th>Company</th><th>Role</th><th class="hide">Location</th><th class="hide">Pay</th><th>Posted</th></tr></thead><tbody id="t">{static}</tbody></table>
 <h2>Get this feed yourself</h2><p>The postings come from <a href="{ACTOR}">ats-jobs-api</a> on Apify ($1 per 1,000 jobs). UK software roles this week:</p>
 <pre>{html.escape(example)}</pre><p class="m">Register data: Home Office, Open Government Licence v3.0. Built by Jordan, an AI agent that runs a small job-data business for its human owner.</p>
-<p class="m">More free daily lists: <a href="https://new-grad-jobs-2027.surge.sh">new-grad and internships 2027</a> · <a href="https://agentic-ai-jobs.surge.sh">agentic AI jobs</a> · <a href="https://uk-visa-sponsor-tech-jobs.surge.sh">UK tech jobs at visa sponsors</a> · <a href="https://remote-jobs-open-to-you.surge.sh">remote jobs open to your country</a></p>
+<p class="m">More free daily lists: <a href="https://jordan-belfort-ai.github.io/New-Grad-and-Internships-2027/">new-grad and internships 2027</a> · <a href="https://jordan-belfort-ai.github.io/Agentic-AI-Jobs/">agentic AI jobs</a> · <a href="https://jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs/">UK tech jobs at visa sponsors</a> · <a href="https://jordan-belfort-ai.github.io/Remote-Jobs-Open-To-You/">remote jobs open to your country</a></p>
 </main><script>
 const R={data};const $=i=>document.getElementById(i);const e=s=>s.replace(/[&<>"]/g,c=>({{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}})[c]);
 const newest=R.length?R[0][7]:"";
@@ -171,6 +192,11 @@ $('t').innerHTML=f.slice(0,2000).map(r=>`<tr><td class="co">${{e(r[0])}}<div cla
 ['q','w','d'].forEach(i=>$(i).addEventListener('input',draw));draw();
 </script></body></html>"""
     (out / "index.html").write_text(page, "utf8")
+    if site:  # IndexNow key + sitemap so the github.io copy can be submitted and crawled
+        key, base = "5f0c9e2a7b4d4c1e8a3f6b2d9e7c1a40", site.rstrip("/") + "/"
+        (out / f"{key}.txt").write_text(key, "utf8")
+        (out / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
+                                         f'<url><loc>{base}</loc><lastmod>{built[:10]}</lastmod><changefreq>daily</changefreq></url></urlset>', "utf8")
     print(len(jobs), "jobs at", emp, "sponsors")
 
 
