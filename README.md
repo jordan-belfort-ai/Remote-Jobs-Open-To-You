@@ -1,23 +1,24 @@
-# Remote tech jobs you can actually take from outside the US (2324 open, updated 2026-11-05)
+# Remote tech jobs you can actually take from outside the US (2283 open, updated 2026-11-06)
 
-Most "remote" jobs are remote *in one country*. Of 7,888 remote tech jobs posted in the last 30 days on the career pages of 20,000+ employers, 3,908 are US/Canada-only and 515 just say "Remote" with no scope. This list keeps the 2,324 that say who can apply: **worldwide**, a **region** (EMEA, LATAM, APAC, Europe, Africa) or a named country outside the US. Read daily from Greenhouse, Ashby, Lever, Workday, SmartRecruiters, Workable, Recruitee, Teamtailor and Personio boards; every link goes to the employer's own posting. 🆕 = last 2 days.
+Most "remote" jobs are remote *in one country*. Of 7,845 remote tech jobs posted in the last 30 days on the career pages of 20,000+ employers, 3,887 are US/Canada-only and 523 just say "Remote" with no scope. This list keeps the 2,283 that say who can apply: **worldwide**, a **region** (EMEA, LATAM, APAC, Europe, Africa) or a named country outside the US. Read daily from Greenhouse, Ashby, Lever, Workday, SmartRecruiters, Workable, Recruitee, Teamtailor and Personio boards; every link goes to the employer's own posting. 🆕 = last 2 days.
 
 **Pick your country on the filterable page: [jordan-belfort-ai.github.io/Remote-Jobs-Open-To-You](https://jordan-belfort-ai.github.io/Remote-Jobs-Open-To-You/)**
 
-Roles open to each country, worldwide and regional ones included (only the filterable page splits them by country; the tables below go by region): GB 478, PL 458, ES 335, DE 316, IN 315, BR 269, PT 237, MX 210, CO 197, AR 186, ZA 109, PH 97, NG 72, VN 70, KE 69, PK 62
+Roles open to each country, worldwide and regional ones included (only the filterable page splits them by country; the tables below go by region): GB 458, PL 444, ES 329, DE 309, IN 308, BR 269, PT 227, MX 200, CO 189, AR 180, ZA 111, PH 93, NG 76, KE 73, VN 67, PK 63
 
 ## Worldwide (37)
 
 | Company | Role | Open to | Pay | Posted |
 | --- | --- | --- | --- | --- |
+| Telnyx | 🆕 [AI Forward Deployed Engineer](https://job-boards.greenhouse.io/telnyx54/jobs/8196707003) | Worldwide |  | 2026-11-05 |
 | Supabase | 🆕 [Senior Developer Relations, Twitter Brand Rep](https://jobs.ashbyhq.com/supabase/985abb8d-cb2b-4f32-97d7-497e9f89e3ce) | Worldwide |  | 2026-11-04 |
 | Bjak | 🆕 [AI Security Engineer](https://jobs.ashbyhq.com/bjakcareer/60def69d-14bc-44e9-af57-2f87fb3a827e) | Worldwide |  | 2026-11-04 |
 | Bjak | 🆕 [Application Security Engineer AppSec](https://jobs.ashbyhq.com/bjakcareer/b25dfd2e-b875-4a5a-8c33-77e522cb0d2f) | Worldwide |  | 2026-11-04 |
 | Bjak | 🆕 [Cloud Infrastructure Security Engineer](https://jobs.ashbyhq.com/bjakcareer/10b34bc8-bdad-4650-a0eb-f3e2cb8a27cf) | Worldwide |  | 2026-11-04 |
 | Bjak | 🆕 [Data Privacy Security Engineer](https://jobs.ashbyhq.com/bjakcareer/4e7b3e1f-4f8a-49f5-b89a-5bc70ed7576b) | Worldwide |  | 2026-11-04 |
 | Bjak | 🆕 [Security Architect](https://jobs.ashbyhq.com/bjakcareer/709d9e9c-cc09-4f6f-9339-05a288bf5794) | Worldwide |  | 2026-11-04 |
-| Moxie | 🆕 [Staff AI Engineer](https://jobs.ashbyhq.com/moxie/6cbe045b-a4be-45d8-9293-8ad31ec37352) | Worldwide | USD 97k-225k | 2026-11-03 |
-| Moxie | 🆕 [Staff Platform Engineer](https://jobs.ashbyhq.com/moxie/b92272e2-c06c-4411-9451-c52adb5e9b77) | Worldwide | USD 97k-170k | 2026-11-03 |
+| Moxie | [Staff AI Engineer](https://jobs.ashbyhq.com/moxie/6cbe045b-a4be-45d8-9293-8ad31ec37352) | Worldwide | USD 97k-225k | 2026-11-03 |
+| Moxie | [Staff Platform Engineer](https://jobs.ashbyhq.com/moxie/b92272e2-c06c-4411-9451-c52adb5e9b77) | Worldwide | USD 97k-170k | 2026-11-03 |
 | Supabase | [Product Manager - Spark](https://jobs.ashbyhq.com/supabase/85f4d148-4602-4139-802a-962705133892) | Worldwide |  | 2026-10-31 |
 | Supabase | [Product Manager - Administration & Governance](https://jobs.ashbyhq.com/supabase/c20228c2-45ff-4b77-ab77-906f39a06ca3) | Worldwide |  | 2026-10-31 |
 | Supabase | [Software Engineer - AI Tooling Infrastructure](https://jobs.ashbyhq.com/supabase/fb0b563a-e541-43fd-8555-9eb6473aaa11) | Worldwide |  | 2026-10-31 |
@@ -46,14 +47,48 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Supabase | [Cloud Platform Engineer](https://jobs.ashbyhq.com/supabase/5d09daeb-2d7e-42de-9151-81a1341195c4) | Worldwide |  | 2026-10-09 |
 | Supabase | [Product Manager - Realtime](https://jobs.ashbyhq.com/supabase/bd5ce178-84c9-469e-89f4-493c21b50622) | Worldwide |  | 2026-10-07 |
 | Alpaca | [Product Manager - Trading API](https://job-boards.greenhouse.io/alpaca/jobs/6212184004) | Worldwide |  | 2026-10-07 |
-| Supabase | [Product Manager - Auth](https://jobs.ashbyhq.com/supabase/9a4c9984-07c7-4b47-982f-371de3f6ff50) | Worldwide |  | 2026-10-07 |
 
-## Latin America (461)
+## Latin America (448)
 
 | Company | Role | Open to | Pay | Posted |
 | --- | --- | --- | --- | --- |
+| Capgemini | 🆕 [Edge IoT Developer (Remote, México)](https://careers.capgemini.com/job/Aguascalientes-Edge-IoT-Developer-%28Remote%2C-M%C3%A9xico%29/1447327833/) | MX |  | 2026-11-06 |
+| Capgemini | 🆕 [Mid AI Engineer - Remote in México](https://careers.capgemini.com/job/Aguascalientes-Mid-AI-Engineer-Remote-in-M%C3%A9xico/1437750633/) | MX |  | 2026-11-06 |
+| Capgemini | 🆕 [Full Stack Developer - React & .NET (Remote, México)](https://careers.capgemini.com/job/Aguascalientes-Full-Stack-Developer-React-&-_NET-%28Remote%2C-M%C3%A9xico%29/1444976033/) | MX |  | 2026-11-06 |
+| Puzzle Consulting Services | 🆕 [Product Manager - Remote Latam](https://jobs.ashbyhq.com/puzzle-consulting-services/af83838e-7623-411b-8813-cb604234ffc0) | BR |  | 2026-11-05 |
+| CI&T | 🆕 [UX Designer (Mid-Level), Brazil](https://jobs.lever.co/ciandt/d038f823-b0cf-4e07-9d83-898b748f1b37) | BR |  | 2026-11-05 |
+| Software Mind | 🆕 [\[8AD\] Senior Power BI & Azure Synapse Developer](https://jobs.smartrecruiters.com/SoftwareMind/744000159965516) | CR |  | 2026-11-05 |
+| Applaudo Studios | 🆕 [Full Stack Developer (React & Node.js)](https://jobs.smartrecruiters.com/ApplaudoStudios/744000159963589) | PE |  | 2026-11-05 |
+| Sezzle | 🆕 [Technical Product Manager](https://job-boards.greenhouse.io/sezzle/jobs/8197289003) | PE, US | USD 4k-6k/mo | 2026-11-05 |
+| CI&T | 🆕 [JuniorData Developer (Databricks), Brazil](https://jobs.lever.co/ciandt/52396f60-bec6-458d-a3bd-bd3185df8af3) | BR |  | 2026-11-05 |
+| Applaudo Studios | 🆕 [AI Automation Engineer (Claude Code)](https://jobs.smartrecruiters.com/ApplaudoStudios/744000159937799) | BR |  | 2026-11-05 |
+| CI&T | 🆕 [AI Lead Software Engineer, Brazil](https://jobs.lever.co/ciandt/1df2b582-88bd-4cd6-94c4-4919361c4a04) | BR |  | 2026-11-05 |
+| CI&T | 🆕 [AI Engineer Senior, Brazil](https://jobs.lever.co/ciandt/b4f02ee0-09d6-46fc-b0f0-43d55852869a) | BR |  | 2026-11-05 |
+| Silver.dev | 🆕 [Feltsense - AI Engineer](https://jobs.ashbyhq.com/silver/fd575807-3e73-4c2c-a3e7-9a9bbd1af2de) | AR | USD 60k-110k | 2026-11-05 |
+| CI&T | 🆕 [Master Data Developer - Data Ops, Brazil](https://jobs.lever.co/ciandt/54dbb05f-9eae-4747-be01-063fa06e4aa8) | BR |  | 2026-11-05 |
+| CI&T | 🆕 [Master Data Developer - Data Ops, Colombia](https://jobs.lever.co/ciandt/4d3d1617-9cd7-4e67-8b2c-5cd7600b1423) | CO |  | 2026-11-05 |
+| CI&T | 🆕 [AI Python Engineer, Brazil](https://jobs.lever.co/ciandt/4aafd66b-791e-444f-8a47-49fb1e347258) | BR |  | 2026-11-05 |
+| CI&T | 🆕 [Senior QA Engineer — AI-Driven Testing, Brazil](https://jobs.lever.co/ciandt/281d64bf-675b-4432-ae94-cca1f1525c6c) | BR |  | 2026-11-05 |
+| CI&T | 🆕 [.NET Developer Senior, Brazil](https://jobs.lever.co/ciandt/4539d086-7a2d-4c7e-b1e0-86cf7de13ef2) | BR |  | 2026-11-05 |
+| NeuraFlash, Part of Accenture | 🆕 [Sr. Developer, AI and Agentforce](https://job-boards.greenhouse.io/neuraflash/jobs/6250707004) | CO |  | 2026-11-05 |
+| Solvd | 🆕 [Product Data Scientist](https://jobs.ashbyhq.com/solvd/37b3e5db-f990-47b0-a574-fa4750f2450f) | AR, BR, CO |  | 2026-11-05 |
+| Qu Pos, Inc. | 🆕 [QA Engineer - Backend & Frontend](https://ats.rippling.com/qu-careers/jobs/db5ada75-478c-4fd1-ae9e-25aae5fb3ef0) | AR |  | 2026-11-05 |
+| Newsweek | 🆕 [Senior Product Manager, Ad Tech](https://job-boards.greenhouse.io/newsweek/jobs/4724930006) | AR, US |  | 2026-11-05 |
+| Truelogic | 🆕 [Adobe Multi-Solution Architect (Firefly / GenStudio / Commerce) - Advertising](https://jobs.ashbyhq.com/truelogic/806e69a5-572f-4bca-8d28-17d52f1e96cf) | CO |  | 2026-11-05 |
+| Oyster | 🆕 [Senior AI Product Engineer](https://jobs.ashbyhq.com/oyster/b3c1e89e-f45b-4c14-9fea-42310ee9231b) | EMEA, AR, AT, BG, BR, CL, CO, DE, ES, GR, HU, IE, LV, PE, PL, PT, RO, SK |  | 2026-11-05 |
+| Olly Olly | 🆕 [Staff Software Engineer](https://jobs.ashbyhq.com/olly-olly/ba012649-c92f-48a4-be77-b605c40d43a3) | AR, BR, CO, CR, MX, NI |  | 2026-11-05 |
+| TRM Labs | 🆕 [Senior AI Engineer (AI Automation)](https://jobs.ashbyhq.com/trm-labs/d8498fe0-1f86-46e6-805a-626489ddd0cb) | BR, CA, US |  | 2026-11-05 |
+| Jabil | 🆕 [Senior C++/Python Software Development Engineer](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Remote---Ukraine/Senior-C---Python-Software-Development-Engineer_J2471354) | BR, ES, HR, HU, MX, PL, UA |  | 2026-11-05 |
+| Salesforce | 🆕 [Solution Architect](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Remote/Solution-Architect_JR367235) | BR |  | 2026-11-05 |
+| Kyndryl | 🆕 [Security Architect (Remote in Brazil)](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Sao-Paulo-Brazil/Security-Architect--Remote-in-Brazil-_R-70705-1) | BR |  | 2026-11-05 |
+| Kyndryl | 🆕 [Software Java Developer - Senior](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Lima-Peru/Software-Java-Developer---Senior_R-65187-1) | PE |  | 2026-11-05 |
+| Kyndryl | 🆕 [Software Engineering Technical Specialist – Workday Integrations](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Mexico-City-Distrito-Federal-Mexico/Software-Engineering-Technical-Specialist---Workday-Integrations_R-71104) | MX |  | 2026-11-05 |
+| Pavago | 🆕 [Product Designer - UX/UI & Design Systems (Remote)](https://apply.workable.com/j/E6DDD68768) | SV |  | 2026-11-05 |
+| Super Speciosa | 🆕 [ERPNext / Frappe Developer - AI-Assisted Development](https://apply.workable.com/j/A7C0A63D25) | AR, BR, CL, CO, IN, MX |  | 2026-11-05 |
 | Muttdata | 🆕 [Senior AI Data Scientist / Modeler - Databricks - Latam](https://jobs.lever.co/muttdata/c3135355-eabc-477a-9c9c-5ce5e5d10df1) | PE |  | 2026-11-04 |
 | Muttdata | 🆕 [Senior AI Data Scientist / Modeler - Databricks - Mexico](https://jobs.lever.co/muttdata/804fb936-ddd9-4c29-a2b5-cb27c710122d) | MX |  | 2026-11-04 |
+| Language Services Associates, Inc. | 🆕 [Software Developer](https://jobs.lever.co/lsa-hr/e52c650c-5227-4801-b9dd-4274ea891b1e) | BR |  | 2026-11-04 |
+| CI&T | 🆕 [\[32526\] Senior Developer Node JS](https://jobs.lever.co/ciandt/bc547089-b9d1-41dc-af21-ddbe00147a0f) | BR |  | 2026-11-04 |
 | Atomic Invest | 🆕 [Software Engineer, Front End](https://jobs.ashbyhq.com/atomic-invest/6da0c7ef-3cc7-420d-820a-e1647d7f3917) | AR, CA, US |  | 2026-11-04 |
 | Darkroom | 🆕 [Full-Stack Engineer](https://jobs.ashbyhq.com/darkroom/43e2ca07-dde4-4c1e-808a-826c0da5d092) | BR |  | 2026-11-04 |
 | 3Y Health | 🆕 [Full Stack AI Engineer](https://jobs.ashbyhq.com/3y-health/6777e8b5-a9ba-41c8-85d9-563842082eb7) | AR |  | 2026-11-04 |
@@ -65,59 +100,51 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Savvy | 🆕 [Senior Software Engineer (Remote LATAM)](https://jobs.ashbyhq.com/savvy/c3589bc5-04c0-470d-a50d-2d38d4828710) | BR, MX, US |  | 2026-11-04 |
 | Lingaro | 🆕 [Azure Data Engineer](https://jobs.lever.co/lingarogroup/a782c079-fd00-4915-af16-76871942a738) | MX |  | 2026-11-04 |
 | AireSpring | 🆕 [ASP.NET Web Forms Developer - Remote](https://jobs.smartrecruiters.com/AireSpring1/744000159658309) | SV |  | 2026-11-04 |
-| Caylent | 🆕 [Forward Deployed Engineer](https://job-boards.greenhouse.io/caylent/jobs/5976585004) | BR |  | 2026-11-04 |
 | Muttdata | 🆕 [Data Engineer Senior - Databricks](https://jobs.lever.co/muttdata/afc5a960-f7b5-4e8e-9169-f05a218edbbe) | AR |  | 2026-11-04 |
 | CI&T | 🆕 [Solutions Architect (Agentic Ops) , Brazil](https://jobs.lever.co/ciandt/e6666c0b-b1a5-434e-b2a5-3a8bf7ebcf57) | BR |  | 2026-11-04 |
 | WIZELINE | 🆕 [SRE DevOps / Platform Engineer (AWS)](https://www.wizeline.ai/careers/job?gh_jid=8352641) | AR |  | 2026-11-04 |
-| SnapSoft Kft. | 🆕 [AWS Cloud Architect (LATAM)](https://snapsoft.recruitee.com/o/aws-cloud-architect-latam) | BR |  | 2026-11-04 |
-| IBM | 🆕 [Data Science - STUDENT CONVERSION](https://careers.ibm.com/careers/JobDetail?jobId=140474) | BR |  | 2026-11-04 |
-| Kyndryl | 🆕 [AI Engineer](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/CRAFZ-Heredia-CRAFZ-Afz/AI-Engineer_R-61862) | CR |  | 2026-11-04 |
-| Banco Bilbao Vizcaya Argentaria | 🆕 [SOFTWARE SOLUTIONS DEVELOPMENT ASSOCIATE I - CANALES ASISTIDOS (CC-CB) - AI TRANSFORMATION & ENGINEERING COLOMBIA](https://bbva.wd3.myworkdayjobs.com/BBVA/job/11001-Bogot-DC-Distrito-Capital-de-Bogot/SOFTWARE-SOLUTIONS-DEVELOPMENT-ASSOCIATE-I---CANALES-ASISTIDOS--CC-CB-----AI-TRANSFORMATION---ENGINEERING-COLOMBIA_JR00118940-2) | CO |  | 2026-11-04 |
-| DaCodes | 🆕 [Senior Data Engineer - Snowflake & dbt \| Remoto México y LATAM](https://apply.workable.com/j/43F08166EA) | CO, MX, PE, SV |  | 2026-11-04 |
-| Remote Talent LATAM | 🆕 [Full Stack Developer \| Remote \| LATAM Only \| 90007](https://apply.workable.com/j/C3D3110E4B) | AR, BR, CO, HN, MX, PA |  | 2026-11-04 |
-| Workana | 🆕 [Full Stack Developer - Mid/Senior](https://apply.workable.com/j/2C2C18E1EC) | AR, BR, CL, MX, PE, UY |  | 2026-11-04 |
-| Superhuman | 🆕 [AI Engineer (Superhuman Mail) - Latin America](https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/b10a5c44-00a5-4887-879f-05c795d5660b) | AR, BR, MX | CAD 128k-210k | 2026-11-03 |
-| Glacier | 🆕 [Computer Vision DATA Engineer - Fully Remote USD - Latin America based](https://jobs.ashbyhq.com/glacier/4421dbba-20c6-4318-8557-205af1a4b03c) | AR, US | USD 2k-4k/mo | 2026-11-03 |
-| CI&T | 🆕 [Senior - AI Deployment Engineer, Brazil](https://jobs.lever.co/ciandt/8f43290c-f863-4eb0-b7a7-6b995b67ebc7) | BR |  | 2026-11-03 |
-| CI&T | 🆕 [Mid-Level .NET Developer, Brazil](https://jobs.lever.co/ciandt/2a586be2-446b-4168-a592-98d072085e4a) | BR |  | 2026-11-03 |
-| Terra | 🆕 [UX/UI Designer (LatAm)](https://jobs.lever.co/terrahq/96428cbf-6dc3-4dde-ae36-2c9ce834b2cb) | CO | USD 4k-6k/mo | 2026-11-03 |
-| Truelogic | 🆕 [Senior Data Architect - Digital Transformation - LATAM](https://jobs.ashbyhq.com/truelogic/94ca1463-a6d7-437a-879a-15979fd0cd24) | DO |  | 2026-11-03 |
-| Truelogic | 🆕 [Senior Data Engineer - Advertising](https://jobs.ashbyhq.com/truelogic/e217e92a-de54-458a-aaca-679483ece790) | DO |  | 2026-11-03 |
-| KMS Technology | 🆕 [Senior Fullstack Software Engineer](https://jobs.smartrecruiters.com/KMSTechnology1/744000159463127) | MX |  | 2026-11-03 |
-| Kraken | 🆕 [Staff Product Designer - AI Products](https://jobs.ashbyhq.com/kraken.com/5f7c8bb0-810a-4ea4-ad6a-2d7c2e2dbdcb) | AE, AR, BG, BR, CA, CH, CL, CO, CY, CZ, ES, GB, HU, IE, LT, MX, PE, PL, PT, RO, SE, ZA |  | 2026-11-03 |
-| CI&T | 🆕 [Mid-Level Full Stack Developer (Java/Angular), Brazil](https://jobs.lever.co/ciandt/6faf9a9a-a2ca-41ca-aa0d-978ea6696d6f) | BR |  | 2026-11-03 |
-| CI&T | 🆕 [Senior/Pleno Data Developer (Databricks/Data Lakehouse ), Brazil](https://jobs.lever.co/ciandt/1660792c-eb35-4258-b544-61a96b8a0cef) | BR |  | 2026-11-03 |
-| CI&T | 🆕 [AI Engineer Senior](https://jobs.lever.co/ciandt/c5513a3b-14d5-46f7-ba6c-c763b35d6906) | BR |  | 2026-11-03 |
-| CI&T | 🆕 [Tech Lead AI Engineer](https://jobs.lever.co/ciandt/261bbb24-7b01-47f7-bfe5-2d4ca9d7226a) | BR |  | 2026-11-03 |
-| Applaudo Studios | 🆕 [Product Manager](https://jobs.smartrecruiters.com/ApplaudoStudios/744000159422719) | MX |  | 2026-11-03 |
-| Lazer | 🆕 [Senior QA Engineer (6-month Contract)](https://jobs.ashbyhq.com/lazer/274f4de5-103e-423a-9309-398dd595270d) | AR, BR, CA, CR, GB, MX, US, UY |  | 2026-11-03 |
-| Ekumen | 🆕 [Full Stack Engineer](https://jobs.ashbyhq.com/ekumenlabs/05c05d1b-4ea0-41ea-a237-459d68eb99a8) | AR, CL, PE |  | 2026-11-03 |
-| CI&T | 🆕 [AI Engineer/Software Architect](https://jobs.lever.co/ciandt/9c4e6df9-df26-4a7b-afb5-cfe8114d3b5a) | BR |  | 2026-11-03 |
-| Panoptyc | 🆕 [Product Manager](https://jobs.ashbyhq.com/panoptyc/0f4aff83-44a2-43ed-872f-8d552ba4a450) | BR, PT |  | 2026-11-03 |
-| CI&T | 🆕 [Product Manager – Flow](https://jobs.lever.co/ciandt/c147d405-6e19-432b-bd7e-85a8ade7fbb6) | BR |  | 2026-11-03 |
-| Dotmatics | 🆕 [Staff Data Engineer \| Luma (MEX)](https://www.dotmatics.com/jobs/apply?gh_jid=4749445005) | MX |  | 2026-11-03 |
-| Bugcrowd | 🆕 [Application Security Engineer - (5 months Contract)](https://boards.greenhouse.io/bugcrowd/jobs/8310677?gh_jid=8310677) | LATAM, BR |  | 2026-11-03 |
-| Muttdata | 🆕 [Senior Backend Engineer - Python & Databricks - Latam](https://jobs.lever.co/muttdata/f3d94891-281c-4155-8797-109b7b805458) | PE |  | 2026-11-03 |
-| Muttdata | 🆕 [Data Scientist Senior – Customer Segmentation & Classification (RTM) - Latam](https://jobs.lever.co/muttdata/f11c1915-ce04-4594-8fd9-5c944715fa81) | AR |  | 2026-11-03 |
+| SnapSoft Kft. | [AWS Cloud Architect (LATAM)](https://snapsoft.recruitee.com/o/aws-cloud-architect-latam) | BR |  | 2026-11-04 |
+| IBM | [Data Science - STUDENT CONVERSION](https://careers.ibm.com/careers/JobDetail?jobId=140474) | BR |  | 2026-11-04 |
+| Kyndryl | [AI Engineer](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/CRAFZ-Heredia-CRAFZ-Afz/AI-Engineer_R-61862) | CR |  | 2026-11-04 |
+| Banco Bilbao Vizcaya Argentaria | [SOFTWARE SOLUTIONS DEVELOPMENT ASSOCIATE I - CANALES ASISTIDOS (CC-CB) - AI TRANSFORMATION & ENGINEERING COLOMBIA](https://bbva.wd3.myworkdayjobs.com/BBVA/job/11001-Bogot-DC-Distrito-Capital-de-Bogot/SOFTWARE-SOLUTIONS-DEVELOPMENT-ASSOCIATE-I---CANALES-ASISTIDOS--CC-CB-----AI-TRANSFORMATION---ENGINEERING-COLOMBIA_JR00118940-2) | CO |  | 2026-11-04 |
+| DaCodes | [Senior Data Engineer - Snowflake & dbt \| Remoto México y LATAM](https://apply.workable.com/j/43F08166EA) | CO, MX, PE, SV |  | 2026-11-04 |
+| Remote Talent LATAM | [Full Stack Developer \| Remote \| LATAM Only \| 90007](https://apply.workable.com/j/C3D3110E4B) | AR, BR, CO, HN, MX, PA |  | 2026-11-04 |
+| Workana | [Full Stack Developer - Mid/Senior](https://apply.workable.com/j/2C2C18E1EC) | AR, BR, CL, MX, PE, UY |  | 2026-11-04 |
+| Superhuman | [AI Engineer (Superhuman Mail) - Latin America](https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/b10a5c44-00a5-4887-879f-05c795d5660b) | AR, BR, MX | CAD 128k-210k | 2026-11-03 |
+| Glacier | [Computer Vision DATA Engineer - Fully Remote USD - Latin America based](https://jobs.ashbyhq.com/glacier/4421dbba-20c6-4318-8557-205af1a4b03c) | AR, US | USD 2k-4k/mo | 2026-11-03 |
+| CI&T | [Senior - AI Deployment Engineer, Brazil](https://jobs.lever.co/ciandt/8f43290c-f863-4eb0-b7a7-6b995b67ebc7) | BR |  | 2026-11-03 |
+| CI&T | [Mid-Level .NET Developer, Brazil](https://jobs.lever.co/ciandt/2a586be2-446b-4168-a592-98d072085e4a) | BR |  | 2026-11-03 |
+| Terra | [UX/UI Designer (LatAm)](https://jobs.lever.co/terrahq/96428cbf-6dc3-4dde-ae36-2c9ce834b2cb) | CO | USD 4k-6k/mo | 2026-11-03 |
+| Truelogic | [Senior Data Architect - Digital Transformation - LATAM](https://jobs.ashbyhq.com/truelogic/94ca1463-a6d7-437a-879a-15979fd0cd24) | DO |  | 2026-11-03 |
+| Truelogic | [Senior Data Engineer - Advertising](https://jobs.ashbyhq.com/truelogic/e217e92a-de54-458a-aaca-679483ece790) | DO |  | 2026-11-03 |
+| KMS Technology | [Senior Fullstack Software Engineer](https://jobs.smartrecruiters.com/KMSTechnology1/744000159463127) | MX |  | 2026-11-03 |
+| Kraken | [Staff Product Designer - AI Products](https://jobs.ashbyhq.com/kraken.com/5f7c8bb0-810a-4ea4-ad6a-2d7c2e2dbdcb) | AE, AR, BG, BR, CA, CH, CL, CO, CY, CZ, ES, GB, HU, IE, LT, MX, PE, PL, PT, RO, SE, ZA |  | 2026-11-03 |
+| CI&T | [Mid-Level Full Stack Developer (Java/Angular), Brazil](https://jobs.lever.co/ciandt/6faf9a9a-a2ca-41ca-aa0d-978ea6696d6f) | BR |  | 2026-11-03 |
+| CI&T | [Senior/Pleno Data Developer (Databricks/Data Lakehouse ), Brazil](https://jobs.lever.co/ciandt/1660792c-eb35-4258-b544-61a96b8a0cef) | BR |  | 2026-11-03 |
+| CI&T | [AI Engineer Senior](https://jobs.lever.co/ciandt/c5513a3b-14d5-46f7-ba6c-c763b35d6906) | BR |  | 2026-11-03 |
+| CI&T | [Tech Lead AI Engineer](https://jobs.lever.co/ciandt/261bbb24-7b01-47f7-bfe5-2d4ca9d7226a) | BR |  | 2026-11-03 |
+| Applaudo Studios | [Product Manager](https://jobs.smartrecruiters.com/ApplaudoStudios/744000159422719) | MX |  | 2026-11-03 |
+| Lazer | [Senior QA Engineer (6-month Contract)](https://jobs.ashbyhq.com/lazer/274f4de5-103e-423a-9309-398dd595270d) | AR, BR, CA, CR, GB, MX, US, UY |  | 2026-11-03 |
+| Ekumen | [Full Stack Engineer](https://jobs.ashbyhq.com/ekumenlabs/05c05d1b-4ea0-41ea-a237-459d68eb99a8) | AR, CL, PE |  | 2026-11-03 |
+| CI&T | [AI Engineer/Software Architect](https://jobs.lever.co/ciandt/9c4e6df9-df26-4a7b-afb5-cfe8114d3b5a) | BR |  | 2026-11-03 |
+| CI&T | [Product Manager – Flow](https://jobs.lever.co/ciandt/c147d405-6e19-432b-bd7e-85a8ade7fbb6) | BR |  | 2026-11-03 |
+| Dotmatics | [Staff Data Engineer \| Luma (MEX)](https://www.dotmatics.com/jobs/apply?gh_jid=4749445005) | MX |  | 2026-11-03 |
+| Bugcrowd | [Application Security Engineer - (5 months Contract)](https://boards.greenhouse.io/bugcrowd/jobs/8310677?gh_jid=8310677) | LATAM, BR |  | 2026-11-03 |
+| Muttdata | [Senior Backend Engineer - Python & Databricks - Latam](https://jobs.lever.co/muttdata/f3d94891-281c-4155-8797-109b7b805458) | PE |  | 2026-11-03 |
+| Muttdata | [Data Scientist Senior – Customer Segmentation & Classification (RTM) - Latam](https://jobs.lever.co/muttdata/f11c1915-ce04-4594-8fd9-5c944715fa81) | AR |  | 2026-11-03 |
 | Somnio Software | [Senior Full Stack Engineer](https://somniosoftware.recruitee.com/o/senior-full-stack-engineer) | UY |  | 2026-11-03 |
 | Ben Fatto | [Developer lead (.net + angular)](https://benfatto.recruitee.com/o/developer-lead-net-angular) | BR |  | 2026-11-03 |
 | Bold | [Product Manager- (CRM Service & Contact Experience)](https://jobs.bold.co/o/product-manager-crm-service-contact-experience) | CO |  | 2026-11-03 |
 | Abbott | [Product Manager](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Paraguay---Remote/Product-Manager_31165340) | PY |  | 2026-11-03 |
 | Salesforce | [Data Foundation Solution Engineer](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Argentina---Remote/Data-Foundation-Solution-Engineer_JR365218) | AR, CO, MX |  | 2026-11-03 |
-| Kyndryl | [Software Java Developer - Senior](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Lima-Peru/Software-Java-Developer---Senior_R-65183-1) | PE |  | 2026-11-03 |
 | Iron Mountain | [Procurement Analytics Manager / Procurement / Data Analyst / Remote / Bilingual](https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/COL--Bogot--Av-Cra-45-114-Oficina-503/Profesional-Sn-de-Analtica-de-Compras---Remote---Bilingue_J0108540) | CO, MX |  | 2026-11-03 |
 | DaCodes | [Fullstack .NET Developer (C# + SQL Server + Vue/React/Angular) - LATAM Remoto](https://apply.workable.com/j/C39243A757) | CO, GT, MX, PE |  | 2026-11-03 |
 | HeadQuarters | [AI Solutions Engineer - Agents & Automation](https://apply.workable.com/j/345E265FE0) | MX, RS |  | 2026-11-03 |
-| Pavago | [Product Designer - UX/UI & Design Systems (Remote)](https://apply.workable.com/j/B17EF72016) | PA |  | 2026-11-03 |
 | DEUNA | [DevOps Engineer](https://jobs.lever.co/deuna/4fc7a9ec-e8d7-460b-b16a-f2755ef895de) | CO, MX |  | 2026-11-02 |
 | Caseware | [Software Developer in Test II](https://jobs.lever.co/caseware/8bbd85f4-bd8d-44d3-9879-8cb9d872fadf) | CO |  | 2026-11-02 |
 | Caseware | [Senior Software Developer III\*](https://jobs.lever.co/caseware/4325b4c4-1dac-4c6a-95c7-2ef1dad023d8) | CO |  | 2026-11-02 |
 | Kraken | [Senior Software Engineer - Rust - Backend - Pro](https://jobs.ashbyhq.com/kraken.com/c0d90cde-96ab-455a-b613-16b2f395e683) | AR, BG, BR, CL, CO, CY, CZ, HU, MX, PE, PL, RO, SE, ZA |  | 2026-11-02 |
 | Kraken | [Senior Software Engineer - Rust - Consumer](https://jobs.ashbyhq.com/kraken.com/7cf68627-a5f2-4f6b-b6a3-012c07fd7938) | AR, BG, BR, CL, CO, CY, CZ, HU, MX, PE, PL, RO, SE, ZA |  | 2026-11-02 |
-| Truelogic | [Senior Front-End Engineer (Next.js/React) - Real Estate - Mexico](https://jobs.ashbyhq.com/truelogic/67e37adc-da5d-4c47-9288-c837cb9e23f3) | MX |  | 2026-11-02 |
-| Truelogic | [Senior Front-End Engineer (Next.js/React) - Real Estate - Colombia](https://jobs.ashbyhq.com/truelogic/67d297a2-a583-4d16-b6a4-7a48c2fa6174) | CO |  | 2026-11-02 |
-| Truelogic | [Senior Front-End Engineer (Next.js/React) - Real Estate - Brasil](https://jobs.ashbyhq.com/truelogic/f2211246-3150-4674-aa34-2bce98619c03) | BR |  | 2026-11-02 |
-| Truelogic | [Senior Front-End Engineer (Next.js/React) - Real Estate](https://jobs.ashbyhq.com/truelogic/0b2752aa-8abe-4ef4-b9f7-eec4aa22fc1a) | LATAM |  | 2026-11-02 |
 | Superhuman | [Software Engineer, Back-End (Superhuman Mail) - Latin America](https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/ce6c4d4a-711d-4bd9-bfa0-dae513c99103) | AR, BR, MX | ARS 152000k-160000k | 2026-11-02 |
 | LatamCent | [Senior Product Manager](https://jobs.ashbyhq.com/latamcent/b370ed7d-62f6-4893-b6b6-1b728b1c9214) | AR |  | 2026-11-02 |
 | Blend360 | [AI Engineer](https://jobs.smartrecruiters.com/Blend360/744000159228469) | MX |  | 2026-11-02 |
@@ -126,7 +153,6 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | BlueCloud Services, Inc. | [Manager, Analytics & Solutions Architecture](https://jobs.lever.co/blue/babcd2b8-7d61-4686-90f6-38fa7ac5bebf) | CO |  | 2026-11-02 |
 | Coderio | [Sr. Software Engineer - Backend](https://jobs.lever.co/coderio/260bd34e-e8e3-4484-ae30-542f88501ebe) | AR, UY |  | 2026-11-02 |
 | Fullstory | [Staff Software Engineer, Backend](https://jobs.ashbyhq.com/fullstory/67d47fdb-4f45-4464-a8ef-bd81411987f0) | CO | USD 90k-100k | 2026-11-02 |
-| Swiftly | [Senior Data Scientist](https://jobs.lever.co/SwiftlySystems/987bd555-9a56-4949-b7d2-5c12bf0d61a9) | AR | USD 7k-8k/mo | 2026-11-02 |
 | Wellhub | [Senior Security Engineer \| InfoSec](https://job-boards.greenhouse.io/gympass/jobs/8881245002) | BR |  | 2026-11-02 |
 | EarnIn | [Platform Engineer (AI Automation)](https://job-boards.greenhouse.io/earnin/jobs/8346674) | MX |  | 2026-11-02 |
 | Sigma Software | [Senior Data Engineer](https://jobs.smartrecruiters.com/SigmaSoftware2/744000159109821) | BR |  | 2026-11-02 |
@@ -140,7 +166,6 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Metova | [Full-Stack Software Engineer](https://apply.workable.com/j/3D6D3C06ED) | AR, BO, CL, CO, EC, VE |  | 2026-11-02 |
 | OpenMined | [Senior Software Engineer - AI Oversight](https://apply.workable.com/j/5DAF8993BF) | AR, BR, CO, UY | USD 77k-109k/mo | 2026-11-02 |
 | Kira | [Product Support Engineer, El Salvador](https://jobs.ashbyhq.com/kira/9725d1ef-44d3-4495-b370-77c620c98f6e) | SV |  | 2026-11-01 |
-| Truelogic | [Lead Data Engineer - Advertising](https://jobs.ashbyhq.com/truelogic/72835641-faaf-4d6d-801e-8405def5b9e0) | PA |  | 2026-10-30 |
 | Ekumen | [AR/VR Software Engineer](https://jobs.ashbyhq.com/ekumenlabs/0b7bf4a2-36df-4dda-bb7f-089ddd22aa43) | AR, CL, PE |  | 2026-10-30 |
 | Coderio | [Senior Integration & Backend Engineer – Incident Management Platform](https://jobs.lever.co/coderio/b59460c4-3776-4bae-b153-0d22a544e1e7) | AR, BR, UY |  | 2026-10-30 |
 | NielsenIQ | [Product Manager](https://jobs.smartrecruiters.com/NielsenIQ/744000158799544) | CO |  | 2026-10-30 |
@@ -166,14 +191,13 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Commons | [Full Stack Engineer (Backend Focus)](https://jobs.ashbyhq.com/commons/48fefa82-e2b7-4835-89e1-3ef91541ca51) | CA, MX, US | USD 150k-200k | 2026-10-29 |
 | CI&T | [Data Architect (Databricks), Colombia](https://jobs.lever.co/ciandt/35f74c50-113b-4f7b-b1fa-d92e4c4b2159) | CO |  | 2026-10-29 |
 | CI&T | [Data Architect (Databricks), Brazil](https://jobs.lever.co/ciandt/58dce197-882e-454f-8771-2fcc214542ea) | BR |  | 2026-10-29 |
-| Applaudo Studios | [AI Engineer (temporary contract)](https://jobs.smartrecruiters.com/ApplaudoStudios/744000158580799) | MX |  | 2026-10-29 |
 | Gainsight | [Cloud Security Operations Engineer](https://jobs.ashbyhq.com/gainsight/19789742-ae30-4c1b-ab25-de0396e8299b) | MX |  | 2026-10-29 |
 | Peek | [Senior Full Stack Engineer](https://jobs.ashbyhq.com/peek/1af118f6-05c4-4a9e-93b3-b5c8f7f0345b) | MX | MXN 950k-1200k | 2026-10-29 |
+| CSC Generation | [Senior QA Engineer, AI & Automation](https://jobs.lever.co/cscgeneration-2/5a3fb9cb-6135-417c-93db-afd91b1bd7d5) | CR, US |  | 2026-10-29 |
 | Applaudo Studios | [Senior Offensive Security Engineer (Azure & Entra ID)](https://jobs.smartrecruiters.com/ApplaudoStudios/744000158568699) | MX |  | 2026-10-29 |
 | Muttdata | [Data Engineer Semi Senior - Feature Engineering - Databricks](https://jobs.lever.co/muttdata/4d82b806-47be-4c1a-a0ff-e4a90d5f8027) | AR |  | 2026-10-29 |
 | Applaudo Studios | [Senior Offensive Security Engineer (Web & API)](https://jobs.smartrecruiters.com/ApplaudoStudios/744000158566149) | MX |  | 2026-10-29 |
 | Muttdata | [Data Engineer Senior - Databricks - Latam](https://jobs.lever.co/muttdata/fc857e57-d162-455e-87fe-64c324c9708a) | AR |  | 2026-10-29 |
-| Puzzle Consulting Services | [Senior Software Engineer - Remote Latam](https://jobs.ashbyhq.com/puzzle-consulting-services/fed2c57e-97ee-4f1e-9aef-ec557ac45110) | BR |  | 2026-10-29 |
 | Airbnb | [Senior Software Engineer, Experimentation Platform](https://careers.airbnb.com/positions/8334880?gh_jid=8334880) | BR |  | 2026-10-29 |
 | CI&T | [Mid Level .NET Developer, Brazil](https://jobs.lever.co/ciandt/cf0f8301-1a70-4dbc-9204-82432de67a6a) | BR |  | 2026-10-29 |
 | Muttdata | [Data Engineer Senior - Databricks - Mexico](https://jobs.lever.co/muttdata/7388c097-3764-41e9-8d50-f7e4354c2b2d) | MX |  | 2026-10-29 |
@@ -194,7 +218,6 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Truelogic | [Mid-Level Backend Engineer – Event-Driven SaaS Platform](https://jobs.ashbyhq.com/truelogic/631bfc3c-8e41-47ab-a1f9-389eb8c36d00) | LATAM |  | 2026-10-28 |
 | Truelogic | [Senior Backend Engineer – Live Events & Ticketing SaaS](https://jobs.ashbyhq.com/truelogic/40f55920-3073-408f-841a-04af1026e460) | LATAM |  | 2026-10-28 |
 | CI&T | [Data Product Manager, Brazil](https://jobs.lever.co/ciandt/258e1fae-559d-4495-a266-68d640f9ff2c) | BR |  | 2026-10-28 |
-| CI&T | [Master Data Developer - Data Ops, Colombia](https://jobs.lever.co/ciandt/4064f414-95b4-43a0-81cb-159b64e8c67b) | CO |  | 2026-10-28 |
 | CI&T | [Senior Data Analyst (Data Quality & Reporting), Brazil](https://jobs.lever.co/ciandt/3fad2ba3-717c-4e6b-a37e-6d4925492c7f) | BR |  | 2026-10-28 |
 | Rehire | [Security Engineer – Cloud Security & AI](https://jobs.ashbyhq.com/rehire/8f371dab-cbe0-48cd-adcb-dea640637487) | MX |  | 2026-10-28 |
 | CI&T | [DevOps Engineer Sênior - Huawei Cloud \| AI Deployer](https://jobs.lever.co/ciandt/53872c6f-11e1-4ac8-8856-0ba13f4b87a2) | BR |  | 2026-10-28 |
@@ -227,11 +250,9 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Inetum | [Data Architect / Data Modeler](https://jobs.smartrecruiters.com/Inetum2/744000158072389) | MX |  | 2026-10-27 |
 | CI&T | [Senior Fullstack Developer ( Java + Angular ), Brazil](https://jobs.lever.co/ciandt/513de4fc-c1c5-4912-8057-ec57b2caf875) | BR |  | 2026-10-27 |
 | Goods & Services | [Senior Software & AI Modernization Engineer](https://job-boards.greenhouse.io/goodsservices/jobs/8013655003) | CO, MX |  | 2026-10-27 |
-| knowmad mood | [AI Agent Developer (Latam)](https://knowmadmood.teamtailor.com/jobs/8623123-ai-agent-developer-latam) | LATAM |  | 2026-10-27 |
 | Wellhub | [Staff Product Manager \| Identity](https://job-boards.greenhouse.io/gympass/jobs/8917066002) | BR |  | 2026-10-27 |
 | Winston Artory Group | [Lead Full Stack Engineer](https://ats.rippling.com/winston-artory-group/jobs/9982582f-5570-4354-9f5f-9e3818c16dfc) | AR, CO, MX |  | 2026-10-27 |
 | UnitedHealth Group | [Sr. Data Analyst - San Juan, PR](https://careers.unitedhealthgroup.com/job/san-juan/sr-data-analyst-san-juan-pr/34088/102512671648) | PR, US |  | 2026-10-27 |
-| Salesforce | [Solution Architect](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Remote/Solution-Architect_JR362791) | MX |  | 2026-10-27 |
 | Thomson Reuters | [DevOps Engineer - Mid Level](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/DevOps-Engineer---Mid-Level_JREQ204087) | MX |  | 2026-10-27 |
 | Bask Health | [Junior Back-End Software Engineer](https://apply.workable.com/j/3A8CAD873C) | AR, BR, CO, ES, US |  | 2026-10-27 |
 | Bask Health | [Junior Front-End Software Engineer](https://apply.workable.com/j/01A6A33272) | AR, BR, EG, ES, US |  | 2026-10-27 |
@@ -240,7 +261,6 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Side | [Senior Software Development Engineer in Test (SDET)](https://apply.workable.com/j/12985C0297) | BR |  | 2026-10-27 |
 | Workana | [AI Engineer](https://apply.workable.com/j/9FC59318A5) | AR, BR, CL, CO, MX, UY |  | 2026-10-27 |
 | G2i Inc. | [Senior Software Engineer, AI Training - Argentina](https://jobs.ashbyhq.com/g2i/c7cd537c-6380-4da5-800f-031da18b5a2e) | AR | USD 100-200/h | 2026-10-26 |
-| Applaudo Studios | [Senior Data Analyst (Temporary Contract)](https://jobs.smartrecruiters.com/ApplaudoStudios/744000157924209) | PE |  | 2026-10-26 |
 | Coderio | [Senior AI Engineer (Python)](https://jobs.lever.co/coderio/48ad8ddf-5774-4f13-b144-169d02af6cb2) | AR, BR, CO, PE, UY |  | 2026-10-26 |
 | Experian | [Analista de SRE Sênior](https://jobs.smartrecruiters.com/Experian/744000157903334) | BR |  | 2026-10-26 |
 | Oyster | [Senior AI Solutions Engineer](https://jobs.ashbyhq.com/oyster/34e9f726-4461-4ef7-9724-a0aba8c72a76) | EMEA, BR, CA, ES, GB, IE, PL, PT, RO |  | 2026-10-26 |
@@ -274,7 +294,6 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | CI&T | [Solutions Architect , Brazil](https://jobs.lever.co/ciandt/22c6a7e1-9986-4b64-8d36-58320e8e9263) | BR |  | 2026-10-23 |
 | CI&T | [Principal Platform Engineer , Brazil](https://jobs.lever.co/ciandt/955bf09d-efdb-4660-81e4-64b8e7666444) | BR |  | 2026-10-23 |
 | CI&T | [Senior Data Developer (Databricks/ Espanhol), Brazil](https://jobs.lever.co/ciandt/5613b599-71b0-4486-89a3-dd4606280c5a) | BR |  | 2026-10-23 |
-| Sparq Holdings, Inc. | [Senior Flutter/Dart Mobile Engineer](https://ats.rippling.com/sparq/jobs/2e270acc-70f9-4a41-82ac-be6732a2f89b) | CL, CO, CR |  | 2026-10-23 |
 | Blip Global | [Staff SRE](https://job-boards.greenhouse.io/blip-global/jobs/4465248009) | BR |  | 2026-10-23 |
 | Kraken | [Sr. Data Analyst, Compliance](https://jobs.ashbyhq.com/kraken.com/b4137bcd-3a22-42aa-b22b-456f1ed9be93) | BR, CA |  | 2026-10-23 |
 | Software Mind | [\[8NW\] Sr. Cloud Infrastructure / DevOps Engineer](https://jobs.smartrecruiters.com/SoftwareMind/744000157382729) | CR |  | 2026-10-23 |
@@ -318,7 +337,6 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | CI&T | [Master AWS I .Net Developer, Brazil](https://jobs.lever.co/ciandt/4569f0fd-61e4-41b0-9c47-50790c749ee0) | BR |  | 2026-10-21 |
 | Tech Holding | [Senior Software Engineer \| Contract \| Remote](https://job-boards.greenhouse.io/techholding/jobs/4746390005) | MX |  | 2026-10-21 |
 | SunnyData | [Solutions Architect](https://jobs.ashbyhq.com/sunnydata/9de0e3b5-e600-475c-bd51-f7b42f6b60f5) | AR |  | 2026-10-21 |
-| CI&T | [AI Solution Architect, Colombia](https://jobs.lever.co/ciandt/989a2fd5-f970-4c05-a379-5035cd24ec39) | CO |  | 2026-10-21 |
 | Uberall | [Analytics Engineer](https://jobs.ashbyhq.com/uberall/34dc8010-003c-4306-82f8-d7c21659b44d) | AM, AR, BR, HU, MK, ZA |  | 2026-10-21 |
 | Nimble Gravity | [Manager, Forward Deployed Engineering](https://job-boards.greenhouse.io/nimblegravity/jobs/4744608005) | LATAM, US |  | 2026-10-21 |
 | Launch Potato | [Staff Data Scientist, Lead Generation](https://job-boards.greenhouse.io/launch2/jobs/6230785004) | PA, US |  | 2026-10-21 |
@@ -334,48 +352,42 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | DaCodes | [SR Full Stack Engineer \| PHP/Laravel & Vue.js \| English Required \| Mexico&LATAM](https://apply.workable.com/j/9EBBB8C055) | AR, CL, CO, CR, MX, PE |  | 2026-10-21 |
 | CI&T | [Senior Mobile Developer ( Kotlin and Android SDK )](https://jobs.lever.co/ciandt/b8af2050-db34-44f0-bbbe-6fa052d5ba8a) | BR |  | 2026-10-20 |
 | Nango | [Senior+ Full-Stack Engineer](https://jobs.ashbyhq.com/nango/aa8125b8-1b0e-42dc-8c8e-2d69eabe0524) | AR, BR, CA, CH, CL, GB, MX, US, UY | USD 140k-220k | 2026-10-20 |
-| Canary Technologies Corp | [Senior Software Engineer](https://jobs.lever.co/canarytechnologies/0e1532cc-85e4-4f9d-a78c-defc089b14c8) | AR, US |  | 2026-10-20 |
-| Muttdata | [Senior Data Scientist & AI - Databricks](https://jobs.lever.co/muttdata/221eac91-c2a7-4a59-b476-c86af7544383) | MX |  | 2026-10-20 |
-| AB InBev \| Growth Group | [Data Product Manager](https://job-boards.greenhouse.io/abinbev/jobs/8903669002) | BR |  | 2026-10-20 |
-| Muttdata | [Senior Data Scientist - Databricks - Pricing & Revenue Growth Management - Latam](https://jobs.lever.co/muttdata/3d2b5872-e075-4cf1-8486-6d4750682880) | AR |  | 2026-10-20 |
-| Muttdata | [Senior Data Scientist - Databricks - Pricing & Revenue Growth Management](https://jobs.lever.co/muttdata/0f13dc0e-6505-4598-adb5-53692474dce3) | MX |  | 2026-10-20 |
-| Brandwatch | [Senior Staff DevOps Engineer](https://job-boards.eu.greenhouse.io/brandwatch/jobs/5010759101) | BR, MX |  | 2026-10-20 |
-| Cision | [Senior Staff DevOps Engineer](https://job-boards.eu.greenhouse.io/cision/jobs/5001205101) | BR, MX |  | 2026-10-20 |
-| Blend360 | [Lead FullStack Engineer](https://jobs.smartrecruiters.com/Blend360/744000156459990) | MX |  | 2026-10-20 |
-| Somnio Software | [Senior QA Engineer](https://somniosoftware.recruitee.com/o/senior-qa-engineer) | UY |  | 2026-10-20 |
-| Allshore Talent | [QA Engineer – Creative Automation (100% Remote) (LATAM ONLY)](https://allshoretalent.recruitee.com/o/qa-engineer-creative-automation-100-remote-latam-only) | AR, BO, BR, CL, CO, CR, DO, EC, GT, HN, MX, NI, PA, PE, PY, SV, UY, VE |  | 2026-10-20 |
-| Allshore Talent | [Forward Deployed Engineer – Creative AI (100% Remote)](https://allshoretalent.recruitee.com/o/forward-deployed-engineer-creative-ai-100-remote) | AR, BO, BR, CL, CO, CR, DO, EC, GT, HN, IN, MX, NI, PA, PE, PK, PY, SV, UY, VE, ZA |  | 2026-10-20 |
-| Visa | [Senior Software Engineer, Corporate Banking](https://visa.wd5.myworkdayjobs.com/Visa/job/BR---Remote---Brazil/Senior-Software-Engineer--Corporate-Banking_REF089471W) | BR |  | 2026-10-20 |
-| Dev.Pro | [Intermediate Test Engineer (Manual/Automation) - OP02239](https://apply.workable.com/j/2C3B1561D6) | AR, BR, CO |  | 2026-10-20 |
-| Lago | [Sr. Software Developer, E-Commerce Systems](https://apply.workable.com/j/0BE1588C66) | AR, BR, MK, MX, PH, RS | USD 15-25/h | 2026-10-20 |
-| RecargaPay | [Sr Software Engineer (Financial Products)](https://apply.workable.com/j/C0218642FE) | BR |  | 2026-10-20 |
-| Infisical | [Full Stack Engineer](https://jobs.ashbyhq.com/infisical/351240fc-0dd3-48c3-a46e-e8861cae27cd) | BR, CA, GB, US |  | 2026-10-19 |
-| Infisical | [Senior Full Stack Engineer](https://jobs.ashbyhq.com/infisical/3c9ae12c-142f-408d-8ad8-850addc594ec) | BR, CA, GB, US |  | 2026-10-19 |
-| Robots and Pencils | [Staff Data Scientist](https://job-boards.greenhouse.io/robotsandpencils/jobs/5457403008) | LATAM, AR, CO |  | 2026-10-19 |
-| | 161 more on the [filterable page](https://jordan-belfort-ai.github.io/Remote-Jobs-Open-To-You/) | | | |
+| | 148 more on the [filterable page](https://jordan-belfort-ai.github.io/Remote-Jobs-Open-To-You/) | | | |
 
-## India (278)
+## India (271)
 
 | Company | Role | Open to | Pay | Posted |
 | --- | --- | --- | --- | --- |
-| NeuraFlash, Part of Accenture | 🆕 [Sr. Developer, AI and Agentforce](https://job-boards.greenhouse.io/neuraflash/jobs/6231611004) | IN |  | 2026-11-04 |
+| GRVT TECHNOLOGIES | 🆕 [QA Automation Engineer](https://jobs.ashbyhq.com/grvt/8bf09ec0-58fd-4f63-8eb8-6769bac0d12a) | IN |  | 2026-11-06 |
+| IntegriChain | 🆕 [Data Engineer](https://jobs.smartrecruiters.com/IntegriChain1/744000159936677) | IN |  | 2026-11-05 |
+| CertifyOS | 🆕 [Staff Data Platform Engineer](https://jobs.ashbyhq.com/certifyos/dc312473-7dd8-449c-b707-a8c3231bca56) | IN |  | 2026-11-05 |
+| Miratech | 🆕 [Full Stack Engineer (Go and React)](https://jobs.smartrecruiters.com/Miratech1/744000159861366) | IN |  | 2026-11-05 |
+| Global University Systems (GUS) | 🆕 [Landing Page Developer](https://gusglobaluniversitysystems-global-university-systems.teamtailor.com/jobs/8672004-landing-page-developer) | IN |  | 2026-11-05 |
+| AHEAD | 🆕 [Senior Software Developer - Elixir](https://jobs.lever.co/thinkahead/ff42823c-3691-4ba4-89fc-24b252fb75b2) | IN |  | 2026-11-05 |
+| Nagarro | 🆕 [Associate Staff Engineer (UniVerse PICK Developer)](https://jobs.smartrecruiters.com/Nagarro1/744000159792730) | IN |  | 2026-11-05 |
+| EVERSANA | 🆕 [AI Solutions Engineer (Generative AI & Agentic AI)](https://jobs.smartrecruiters.com/EVERSANA1/744000159792319) | IN |  | 2026-11-05 |
+| Weave | 🆕 [Senior Backend Engineer - India (Golang + Distributed Systems)](https://jobs.ashbyhq.com/weave/32a01f20-4157-4a04-9880-ccb27781b12c) | IN |  | 2026-11-05 |
+| Bjak | 🆕 [iOS Software Engineer](https://jobs.ashbyhq.com/bjakcareer/ac327c66-652f-402f-985a-43a2b576dc16) | IN |  | 2026-11-05 |
+| Bjak | 🆕 [Android Software Engineer](https://jobs.ashbyhq.com/bjakcareer/22126fc1-876b-4486-a879-7f2b506aecca) | IN |  | 2026-11-05 |
+| Ford Motor Company | 🆕 [Partner IAM - Security Platform Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72832) | IN |  | 2026-11-05 |
+| Kyndryl | 🆕 [Senior Software Engineer](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Senior-Software-Engineer_R-69193-1) | IN |  | 2026-11-05 |
+| Syneos Health | 🆕 [Sr Statistical Programmer](https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Remote/Sr-Statistical-Programmer_25112936) | IN |  | 2026-11-05 |
+| Super Speciosa | 🆕 [ERPNext / Frappe Developer - AI-Assisted Development](https://apply.workable.com/j/A7C0A63D25) | AR, BR, CL, CO, IN, MX |  | 2026-11-05 |
 | HighLevel | 🆕 [Sr. Product Manager - Conversations](https://jobs.lever.co/gohighlevel/ed7034a9-cd72-4994-b07a-04edf80bc4aa) | IN |  | 2026-11-04 |
 | openprovider | 🆕 [Product Manager (Domains & DNS) - Fully Remote job](https://openprovider.jobs.personio.de/job/2875391) | IN |  | 2026-11-04 |
 | Bidgely, Inc | 🆕 [Senior Product Support Engineer](https://jobs.ashbyhq.com/bidgely-inc/7b7ae479-f60d-4067-87b1-0c13727160fb) | IN |  | 2026-11-04 |
 | Blend360 | 🆕 [Lead AI Engineer - Agentic Engineering](https://jobs.smartrecruiters.com/Blend360/744000159561869) | IN |  | 2026-11-04 |
-| ServiceNow | 🆕 [Product Designer](https://jobs.smartrecruiters.com/ServiceNow/744000159551529) | IN |  | 2026-11-04 |
-| Genea | 🆕 [Senior Software Engineer (Video Streaming Engineer)](https://job-boards.greenhouse.io/genea/jobs/5472408008) | IN, US |  | 2026-11-04 |
-| Akamai Technologies | 🆕 [Senior Software Engineer](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4233) | IN |  | 2026-11-04 |
-| Hitachi | 🆕 [Backend Web Developer](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---India/Backend-Web-Developer_R0146881) | IN |  | 2026-11-04 |
-| AT&T | 🆕 [Specialist System Engineering - DevOps Engineer — AI & Pipeline Automation](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/INDKABangalore--Intl-Tech-Park-Navigator-Bldg-Whitefield-Road-Intl-Tech-Park-Navigator-BldgIntl-Tech-Park-Navigator-Bldg/Sr-Specialist-System-Engineering---DevOps-Engineer---AI---Pipeline-Automation_R-120401) | IN |  | 2026-11-04 |
-| CodeNinja | 🆕 [Senior SQA Automation Engineer](https://apply.workable.com/j/61999E76E1) | EG, IN |  | 2026-11-04 |
-| Koru UX Design LLP | 🆕 [Design Director - Client Leadership (UX)](https://apply.workable.com/j/25234BE4A1) | IN |  | 2026-11-04 |
-| Weekday AI | 🆕 [Agentic AI Developer](https://apply.workable.com/j/E4A0C3FD74) | IN |  | 2026-11-04 |
-| Weekday AI | 🆕 [Senior Power Platform Developer](https://apply.workable.com/j/5B77726AC2) | IN |  | 2026-11-04 |
-| NewRocket | 🆕 [ServiceNow Senior Software Engineer - CSM + Service Portal](https://www.newrocket.com/careers/job?gh_jid=6241845004&gh_jid=6241845004) | IN |  | 2026-11-03 |
-| Menlo Security | 🆕 [Senior Security Engineer](https://jobs.ashbyhq.com/menlosecurity/08dabbda-d7ea-4bbb-a734-dc77f7e5b9dd) | IN |  | 2026-11-03 |
-| Atlassian | 🆕 [Software Engineer II](https://join.atlassian.com/jobs/27346) | IN |  | 2026-11-03 |
-| Atlassian | 🆕 [Senior Software Engineer - Trusted Data Platform](https://join.atlassian.com/jobs/26637) | IN |  | 2026-11-03 |
+| Genea | [Senior Software Engineer (Video Streaming Engineer)](https://job-boards.greenhouse.io/genea/jobs/5472408008) | IN, US |  | 2026-11-04 |
+| Hitachi | [Backend Web Developer](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---India/Backend-Web-Developer_R0146881) | IN |  | 2026-11-04 |
+| AT&T | [Specialist System Engineering - DevOps Engineer — AI & Pipeline Automation](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/INDKABangalore--Intl-Tech-Park-Navigator-Bldg-Whitefield-Road-Intl-Tech-Park-Navigator-BldgIntl-Tech-Park-Navigator-Bldg/Sr-Specialist-System-Engineering---DevOps-Engineer---AI---Pipeline-Automation_R-120401) | IN |  | 2026-11-04 |
+| CodeNinja | [Senior SQA Automation Engineer](https://apply.workable.com/j/61999E76E1) | EG, IN |  | 2026-11-04 |
+| Koru UX Design LLP | [Design Director - Client Leadership (UX)](https://apply.workable.com/j/25234BE4A1) | IN |  | 2026-11-04 |
+| Weekday AI | [Agentic AI Developer](https://apply.workable.com/j/E4A0C3FD74) | IN |  | 2026-11-04 |
+| Weekday AI | [Senior Power Platform Developer](https://apply.workable.com/j/5B77726AC2) | IN |  | 2026-11-04 |
+| NewRocket | [ServiceNow Senior Software Engineer - CSM + Service Portal](https://www.newrocket.com/careers/job?gh_jid=6241845004&gh_jid=6241845004) | IN |  | 2026-11-03 |
+| Menlo Security | [Senior Security Engineer](https://jobs.ashbyhq.com/menlosecurity/08dabbda-d7ea-4bbb-a734-dc77f7e5b9dd) | IN |  | 2026-11-03 |
+| Atlassian | [Software Engineer II](https://join.atlassian.com/jobs/27346) | IN |  | 2026-11-03 |
+| Atlassian | [Senior Software Engineer - Trusted Data Platform](https://join.atlassian.com/jobs/26637) | IN |  | 2026-11-03 |
 | IBM | [Senior Software Engineer - Confluent](https://careers.ibm.com/careers/JobDetail?jobId=131937) | IN |  | 2026-11-03 |
 | Hitachi | [Frontend Web Developer](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---India/Frontend-Web-Developer_R0146882) | IN |  | 2026-11-03 |
 | Mondelez International | [Data Scientist](https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Mumbai-India/Data-Scientist_R-180808-1) | IN |  | 2026-11-03 |
@@ -388,7 +400,7 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Smart Working Solutions | [DevOps / Platform Engineer (Remote, Full-Time) \[AS348\]](https://jobs.lever.co/smart-working-solutions/791d9cf0-a767-48dc-aa0c-c4a980af568a) | IN |  | 2026-11-02 |
 | Smart Working Solutions | [Python Backend Engineer (Remote, Full - Time) \[AS347\]](https://jobs.lever.co/smart-working-solutions/0683cf61-9c1a-4295-9fdf-fbc670316f53) | IN |  | 2026-11-02 |
 | CertifyOS | [Senior Software Engineer - Apps Team](https://jobs.ashbyhq.com/certifyos/0bcadb51-f3a0-4bfb-8dd7-be3f283c55a7) | IN |  | 2026-11-02 |
-| Built In | [Senior/Staff Software Engineer](https://job-boards.greenhouse.io/builtin/jobs/8337812) | IN |  | 2026-11-02 |
+| Built In | [Senior Software Engineer](https://job-boards.greenhouse.io/builtin/jobs/8337812) | IN |  | 2026-11-02 |
 | Nagarro | [Associate Distinguished Engineer (Technology Architect, Automotive, Data Architecture, Generative AI, Integration, Cloud)](https://jobs.smartrecruiters.com/Nagarro1/744000159092499) | IN |  | 2026-11-02 |
 | XO Health Inc. | [Full Stack Engineer (Front-End)](https://job-boards.greenhouse.io/xohealthinc/jobs/5279104007) | IN | INR 1500k-2500k | 2026-11-02 |
 | Smart Working Solutions | [Senior Data Engineer / Developer (Remote, Full-Time) \[HR221\]](https://jobs.lever.co/smart-working-solutions/d3ffbb13-01ad-4a06-8029-db5d911e71c4) | IN |  | 2026-11-02 |
@@ -397,6 +409,7 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | XO Health Inc. | [Senior Full Stack Engineer](https://job-boards.greenhouse.io/xohealthinc/jobs/5280536007) | IN | INR 2500k-3500k | 2026-11-02 |
 | Lingaro | [Cloud DevOps Engineer](https://jobs.lever.co/lingarogroup/b4aa26da-1f29-42d0-818a-93577800bc6b) | IN |  | 2026-11-02 |
 | NewRocket | [Lead AI/ML Engineer](https://www.newrocket.com/careers/job?gh_jid=6238261004&gh_jid=6238261004) | IN |  | 2026-11-02 |
+| GoDaddy | [Senior Product Manager - Domains](https://careers.godaddy/jobs?gh_jid=8036009003) | IN |  | 2026-11-02 |
 | NewRocket | [ServiceNow Solution Architect - SPM](https://www.newrocket.com/careers/job?gh_jid=6240376004&gh_jid=6240376004) | IN |  | 2026-11-02 |
 | CLANX | [Product Engineer - Remote](https://jobs.clanx.ai/o/product-engineer-remote) | IN |  | 2026-11-02 |
 | NVIDIA | [Senior DevOps and Infrastructure Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Senior-DevOps-and-Infrastructure-Engineer_JR2028545) | IN |  | 2026-11-02 |
@@ -425,12 +438,9 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | CertifyOS | [Senior Product Manager, Forward Deployed](https://jobs.ashbyhq.com/certifyos/a359c3ca-2937-427c-b9a3-f083c3bb04e6) | IN |  | 2026-10-29 |
 | Sophos | [Product Manager](https://jobs.lever.co/sophos/36d14696-10f4-4459-a007-c98d15557eba) | IN |  | 2026-10-29 |
 | Fortive | [Software Engineering P17](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/11010) | IN |  | 2026-10-29 |
-| GE Vernova | [Sr Staff Technical Product Manager](https://gevernova.wd5.myworkdayjobs.com/Only_Confidential_Executive_Recruiting/job/Greenville/Sr-Staff-Technical-Product-Manager_R5057181-1) | IN, US |  | 2026-10-29 |
 | ABB | [IS Architect – Enterprise Architecture Practice & Governance](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Poland/IS-Architect---Enterprise-Architecture-Practice---Governance_JR00051076) | CH, IN, IT, PL |  | 2026-10-29 |
 | Cushman & Wakefield | [Junior Solutions Architect](https://cw.wd1.myworkdayjobs.com/External/job/Mumbai-India/Junior-Solutions-Architect_R335188) | IN |  | 2026-10-29 |
 | Mondelez International | [Product Manager, Performance Management](https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Remote-Worker---India/Business-Analyst--Performance-Management---Experience--People-Services_R-171227-1) | IN |  | 2026-10-29 |
-| Kyndryl | [Software Engineering Technical Specialist – Workday Integrations](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Software-Engineering-Technical-Specialist---Workday-Integrations_R-65174) | IN |  | 2026-10-29 |
-| Kyndryl | [Platform Security Architect](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Platform-Security-Architect_R-69811-1) | IN |  | 2026-10-29 |
 | Kyndryl | [Infrastructure -Cloud Architect](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Infrastructure--Cloud-Architect_R-70667-1) | IN |  | 2026-10-29 |
 | Kyndryl | [Mainframe z/OS System Programmer](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Mainframe-z-OS-System-Programmer_R-70907) | IN |  | 2026-10-29 |
 | Kyndryl | [Software Engineering - Technical Specialist](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Hyderabad-Telangana-India/Software-Engineering---Technical-Specialist_R-69559) | IN |  | 2026-10-29 |
@@ -440,7 +450,6 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Syneos Health | [Principal Statistical Programmer (SDTM)](https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Remote/Principal-Statistical-Programmer--SDTM-_25114101) | IN |  | 2026-10-29 |
 | JoVE | [AI Engineer](https://apply.workable.com/j/3F6BDC10D3) | IN |  | 2026-10-29 |
 | Learnlight | [Business Central Developer (Remote)](https://apply.workable.com/j/AE5608ECF2) | IN |  | 2026-10-29 |
-| Miratech | [Full Stack Engineer (Go and React)](https://jobs.smartrecruiters.com/Miratech1/744000158327019) | IN |  | 2026-10-28 |
 | Miratech | [NICE CXOne Developer](https://jobs.smartrecruiters.com/Miratech1/744000158225359) | IN |  | 2026-10-28 |
 | Cision | [Data Analyst](https://job-boards.eu.greenhouse.io/cision/jobs/4998614101) | IN |  | 2026-10-28 |
 | YipitData | [AI Engineer](https://job-boards.greenhouse.io/yipitdata/jobs/8327847) | IN |  | 2026-10-28 |
@@ -464,7 +473,6 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Weekday | [Senior Security Engineer](https://jobs.lever.co/weekdayworks/3c823659-0649-4c27-86fe-20c433b9059d) | IN | INR 1200k-4500k | 2026-10-26 |
 | Kyndryl | [Azure DevOps Engineer](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Azure-DevOps-Engineer_R-68622-1) | IN |  | 2026-10-26 |
 | Kyndryl | [Mainframe Application Support Engineer](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Mainframe-Application-Support-Engineer_R-70675) | IN |  | 2026-10-26 |
-| Kyndryl | [Senior Software Engineer](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Senior-Software-Engineer_R-69574-1) | IN |  | 2026-10-26 |
 | Kyndryl | [Platform Engineer](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Platform-Engineer_R-70323-1) | IN |  | 2026-10-26 |
 | Curtiss-Wright Corporation | [Firmware Engineer](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/IND-Remote-Work/Firmware-Engineer_JR14062) | IN |  | 2026-10-26 |
 | CrewBloom | [Part Time \| Shopify Developer (Technical SEO)](https://apply.workable.com/j/B486B3B547) | IN, PH, PK |  | 2026-10-26 |
@@ -486,7 +494,6 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Rightangled | [Mobile App Developer (Remote)](https://apply.workable.com/j/B8D4E6C7D2) | AE, IN, PK |  | 2026-10-23 |
 | Supabase | [Customer Solution Architect (AU, NZ, SG)](https://jobs.ashbyhq.com/supabase/dca463e6-b6d0-4003-a30b-e0970a8dcee2) | APAC |  | 2026-10-22 |
 | Bugcrowd | [Application Security Engineer II (Contract - 5 months )](https://boards.greenhouse.io/bugcrowd/jobs/8288958?gh_jid=8288958) | IN |  | 2026-10-22 |
-| Bugcrowd | [Application Security Engineer](https://boards.greenhouse.io/bugcrowd/jobs/8288959?gh_jid=8288959) | IN |  | 2026-10-22 |
 | HighLevel | [Sr. Product Manager - Reputation Management](https://jobs.lever.co/gohighlevel/de899a79-e7e0-4650-8356-08a5d95b4198) | IN |  | 2026-10-22 |
 | Lingaro | [ML/AI Engineer - Venturesoft.ai](https://jobs.lever.co/lingarogroup/329b3b9b-a47e-4cd4-8540-ba7a51a14fbf) | IN |  | 2026-10-22 |
 | CLANX | [Senior Applied Machine Learning Engineer - Remote](https://jobs.clanx.ai/o/senior-applied-machine-learning-engineer-remote) | IN |  | 2026-10-22 |
@@ -553,7 +560,6 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | IBM | [Software Developer - Confluent](https://careers.ibm.com/careers/JobDetail?jobId=135410) | IN |  | 2026-10-16 |
 | Kyndryl | [Mainframe DB2 System Programmer SME](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Chennai-Tamil-Nadu-India/Mainframe-DB2-System-Programmer-SME_R-69896) | IN |  | 2026-10-16 |
 | Syneos Health | [Principal Clinical Programmer - EDC Rave](https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Remote/Principal-Clinical-Programmer---EDC-Rave_25113041) | IN |  | 2026-10-16 |
-| Syneos Health | [Sr Statistical Programmer](https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Remote/Sr-Statistical-Programmer_25113652) | IN |  | 2026-10-16 |
 | 1Kosmos | [Senior Database Engineer](https://apply.workable.com/j/0473B3F708) | IN |  | 2026-10-16 |
 | Appen | [IT Security Analyst - India](https://jobs.lever.co/appen-2/52fa0bc4-e6f2-49c0-9a6d-30143d5f8c69) | IN |  | 2026-10-15 |
 | Lifted, an Upwork Company™ | [Backend Software Engineer - Payments](https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990016153676) | IN |  | 2026-10-15 |
@@ -561,7 +567,6 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Guidepoint | [Senior Survey Programmer (Qualtrics)](https://job-boards.greenhouse.io/guidepoint/jobs/8887923002) | IN |  | 2026-10-15 |
 | Guidepoint | [Survey Programmer (Qualtrics)](https://job-boards.greenhouse.io/guidepoint/jobs/8887932002) | IN |  | 2026-10-15 |
 | Pratham International | [AI Engineer - ASR: PraDigi, a Pratham Initiative](https://job-boards.greenhouse.io/prathaminternational/jobs/4453028009) | IN |  | 2026-10-15 |
-| Thermo Fisher Scientific | [Lead DevOps Engineer](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-India/Lead-DevOps-Engineer_R-01369441) | IN, PH |  | 2026-10-15 |
 | CLANX | [Junior Backend Engineer (Python) - Remote](https://jobs.clanx.ai/o/junior-backend-engineer-python-remote) | IN |  | 2026-10-15 |
 | Kyndryl | [Java Developer](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Java-Developer_R-70264) | IN |  | 2026-10-15 |
 | Astreya | [Software Engineer III](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-India/Software-Engineer-III_R0017634) | IN |  | 2026-10-15 |
@@ -610,7 +615,6 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Lyric | [Platform Engineer - Backend](https://jobs.ashbyhq.com/lyric/38531d9a-54ac-484e-94f9-b22182cccb9a) | IN |  | 2026-10-08 |
 | Lifted, an Upwork Company™ | [Data Engineer](https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990015986166) | IN |  | 2026-10-08 |
 | Outreach | [Senior Forward Deployed Engineer, Managed Services](https://jobs.lever.co/outreach/16657196-aa36-4b6c-9349-ff052cca047a) | IN |  | 2026-10-08 |
-| Twilio | [Staff Machine Learning Engineer (L4)](https://job-boards.greenhouse.io/twilio/jobs/8258593) | IN |  | 2026-10-08 |
 | Twilio | [Principal, Machine Learning Engineer (L5)](https://job-boards.greenhouse.io/twilio/jobs/8258597) | IN |  | 2026-10-08 |
 | NetDocuments | [Staff Software Engineer](https://job-boards.greenhouse.io/netdocuments/jobs/5440435008) | IN, US |  | 2026-10-08 |
 | NetDocuments | [Prinicipal Software Engineer](https://job-boards.greenhouse.io/netdocuments/jobs/5440437008) | IN, US |  | 2026-10-08 |
@@ -625,30 +629,22 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Everbridge | [Senior Software Engineer I – Backend & AI-Enabled](https://jobs.lever.co/everbridge/d77fab1a-910a-45f2-93b2-52d2f66912ac) | IN |  | 2026-10-07 |
 | HighLevel | [Sr. Product Manager - B2C and Events](https://jobs.lever.co/gohighlevel/49e6048a-578a-4af3-a769-e40c0f3ebccd) | IN |  | 2026-10-07 |
 | HighLevel | [Sr. Product Designer](https://jobs.lever.co/gohighlevel/0ef426a8-6be5-4eb2-b28c-27cc96a18bd2) | IN |  | 2026-10-07 |
-| Tala | [Senior Backend Engineer](https://jobs.lever.co/tala/e7b55498-33ed-48fa-ae8c-261082f66906) | IN, US |  | 2026-10-07 |
-| Valtech | [Al Lead Developer](https://job-boards.eu.greenhouse.io/valtech/jobs/4982463101) | IN |  | 2026-10-07 |
-| Ping Identity | [Senior QA Engineer](https://job-boards.greenhouse.io/pingidentity/jobs/8867838002) | IN |  | 2026-10-07 |
-| Sentient | [Senior Backend Engineer](https://jobs.ashbyhq.com/sentient/1b84dc0d-7865-47b8-b3c5-6e04d73edcb5) | IN |  | 2026-10-06 |
-| Smart Working Solutions | [Mobile Developer - .NET MAUI & C# (Remote, Contract) \[AS338\]](https://jobs.lever.co/smart-working-solutions/5ef858da-c3ca-4158-8d93-309bb4e964dc) | IN |  | 2026-10-06 |
-| Weave | [ML - GenAI Engineer, Voice & Speech](https://jobs.ashbyhq.com/weave/2518c1b8-3ffc-40e5-a968-c013e760c3f5) | IN |  | 2026-10-06 |
-| New Era Technology | [Software Engineer](https://job-boards.greenhouse.io/neweratech/jobs/8870372002) | IN, PH |  | 2026-10-06 |
-| Atlassian | [Senior Machine Learning Systems Engineer - Search](https://join.atlassian.com/jobs/26639) | IN |  | 2026-10-06 |
-| YipitData | [Senior Android Engineer](https://job-boards.greenhouse.io/yipitdata/jobs/8255589) | IN |  | 2026-10-06 |
-| LinkedIn | [Forward Deployed Engineer \[Fixed Term Contract - 12 months\]](https://jobs.smartrecruiters.com/LinkedIn3/744000153657829) | IN |  | 2026-10-06 |
-| Momentum Financial Services Group | [Cloud Engineer](https://job-boards.greenhouse.io/momentumfinancialservicesgroup/jobs/5444777008) | IN |  | 2026-10-06 |
 
-## Africa (81)
+## Africa (78)
 
 | Company | Role | Open to | Pay | Posted |
 | --- | --- | --- | --- | --- |
-| The Global Talent Co. | 🆕 [Senior Software Engineer (Full Stack)](https://jobs.ashbyhq.com/the-global-talent-co/ef565495-015c-4108-8fd7-b61b89ca7b80) | EG, KE, NG, ZA |  | 2026-11-04 |
-| CodeNinja | 🆕 [Senior SQA Automation Engineer](https://apply.workable.com/j/61999E76E1) | EG, IN |  | 2026-11-04 |
-| Pavago | 🆕 [Embedded Python Data & Automation Engineer](https://apply.workable.com/j/7E7D6002BE) | ZA |  | 2026-11-04 |
-| Pavago | 🆕 [Video Game Developer](https://apply.workable.com/j/18482A219C) | ZA |  | 2026-11-04 |
-| Kraken | 🆕 [Staff Product Designer - AI Products](https://jobs.ashbyhq.com/kraken.com/5f7c8bb0-810a-4ea4-ad6a-2d7c2e2dbdcb) | AE, AR, BG, BR, CA, CH, CL, CO, CY, CZ, ES, GB, HU, IE, LT, MX, PE, PL, PT, RO, SE, ZA |  | 2026-11-03 |
-| BVNK | 🆕 [Senior Software Engineer (Backend) – Fraud](https://job-boards.eu.greenhouse.io/bvnk/jobs/5025855101) | ZA | EUR 70k-110k | 2026-11-03 |
+| Babble Cloud | 🆕 [Solutions Architect](https://jobs.smartrecruiters.com/BabbleCloud/744000159938951) | ZA |  | 2026-11-05 |
+| The Sales Centre co | 🆕 [Senior Full-Stack Engineer (Backend-Leaning) \| Fully Remote (UK hours) \| Full-time](https://thesalescentre.recruitee.com/o/senior-full-stack-engineer-backend-leaning-fully-remote-uk-hours-full-time) | ZA |  | 2026-11-05 |
+| Pavago | 🆕 [UX/UI Designer](https://apply.workable.com/j/524D1AD596) | KE, ZA |  | 2026-11-05 |
+| The Global Talent Co. | [Senior Software Engineer (Full Stack)](https://jobs.ashbyhq.com/the-global-talent-co/ef565495-015c-4108-8fd7-b61b89ca7b80) | EG, KE, NG, ZA |  | 2026-11-04 |
+| CodeNinja | [Senior SQA Automation Engineer](https://apply.workable.com/j/61999E76E1) | EG, IN |  | 2026-11-04 |
+| Pavago | [Embedded Python Data & Automation Engineer](https://apply.workable.com/j/7E7D6002BE) | ZA |  | 2026-11-04 |
+| Kraken | [Staff Product Designer - AI Products](https://jobs.ashbyhq.com/kraken.com/5f7c8bb0-810a-4ea4-ad6a-2d7c2e2dbdcb) | AE, AR, BG, BR, CA, CH, CL, CO, CY, CZ, ES, GB, HU, IE, LT, MX, PE, PL, PT, RO, SE, ZA |  | 2026-11-03 |
+| BVNK | [Senior Software Engineer (Backend) – Fraud](https://job-boards.eu.greenhouse.io/bvnk/jobs/5025855101) | ZA | EUR 70k-110k | 2026-11-03 |
 | Pavago | [Ruby on Rails Developer](https://apply.workable.com/j/125D5EBA75) | KE, ZA |  | 2026-11-03 |
 | ReWorks Solutions | [AI Full-Stack Engineer](https://apply.workable.com/j/98B223A787) | ZA |  | 2026-11-03 |
+| ReWorks Solutions | [E-commerce Product Designer](https://apply.workable.com/j/B1665BBAC8) | ZA |  | 2026-11-03 |
 | Kraken | [Senior Software Engineer - Rust - Backend - Pro](https://jobs.ashbyhq.com/kraken.com/c0d90cde-96ab-455a-b613-16b2f395e683) | AR, BG, BR, CL, CO, CY, CZ, HU, MX, PE, PL, RO, SE, ZA |  | 2026-11-02 |
 | Kraken | [Senior Software Engineer - Rust - Consumer](https://jobs.ashbyhq.com/kraken.com/7cf68627-a5f2-4f6b-b6a3-012c07fd7938) | AR, BG, BR, CL, CO, CY, CZ, HU, MX, PE, PL, RO, SE, ZA |  | 2026-11-02 |
 | BVNK | [Senior Software Engineer (Backend) – Issuance](https://job-boards.eu.greenhouse.io/bvnk/jobs/5024897101) | ES, ZA | EUR 70k-110k | 2026-11-02 |
@@ -656,8 +652,7 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Icon | [Principal Clinical Data Science Lead](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/UK-Reading/Principal-Clinical-Data-Science-Lead_JR163547) | GB, ZA |  | 2026-11-02 |
 | Bask Health | [Front-End Software Engineer (Remote)](https://apply.workable.com/j/0594E67655) | BR, EG, US |  | 2026-11-02 |
 | BlackStone eIT | [Junior AI Engineer](https://apply.workable.com/j/2496C7C668) | EG |  | 2026-11-02 |
-| SupportYourApp | [(Fluent English) L2 Backend Developer and Support Engineer (Remote)](https://apply.workable.com/j/38F8F09AD7) | AL, MA, MK, RO |  | 2026-11-02 |
-| The Flex | [Software Engineer - Algeria](https://jobs.ashbyhq.com/the-flex/9b05b7f9-76b6-472b-86d8-64b4e734f299) | DZ |  | 2026-10-30 |
+| The Flex | [Software Engineer - North Africa](https://jobs.ashbyhq.com/the-flex/9b05b7f9-76b6-472b-86d8-64b4e734f299) | DZ, MA, TN |  | 2026-10-30 |
 | TechBiz Global GmbH | [Solutions Architect](https://jobs.techbiz.global/o/solutions-architect) | AL, AZ, BD, BE, CH, DE, DK, DZ, EC, EG, ES, FI, FR, GR, HR, HU, ID, IE, IL, IN, JO, KZ, MD, MK, MT, MY, NL, PL, RO, RS, SK, TR, UA, US |  | 2026-10-30 |
 | ReWorks Solutions | [Technical Product Engineer - ATS, AI & Integrations](https://apply.workable.com/j/0B17DAB283) | ZA |  | 2026-10-29 |
 | Kraken | [Senior Software Engineer - Frontend - Consumer](https://jobs.ashbyhq.com/kraken.com/acf80ca2-7073-49aa-ab4a-7064f852d94f) | AR, BG, CL, CO, CZ, EE, HU, LT, LV, MX, PE, PL, RO, SI, SK, ZA |  | 2026-10-28 |
@@ -705,7 +700,6 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Tether Operations Limited | [AI Harness Engineer (100% Remote, Worldwide)](https://tether.recruitee.com/o/ai-harness-engineer-100-remote-worldwide-4) | DK, DO, EC, EG, SV |  | 2026-10-14 |
 | Tether Operations Limited | [Mobile Engineer - React Native (100% Remote) - Worldwide](https://tether.recruitee.com/o/mobile-engineer-react-native-100-remote-worldwide) | AD, AM, AR, AT, BD, BR, ES, GB, HU, NG, PT |  | 2026-10-14 |
 | Tether Operations Limited | [Frontend Desktop Engineer](https://tether.recruitee.com/o/frontend-desktop-engineer-nigeria) | NG |  | 2026-10-14 |
-| Pavago | [UX/UI Designer](https://apply.workable.com/j/392BBEB53A) | KE, ZA |  | 2026-10-14 |
 | Kraken | [Software Engineer II - Rust - Pro](https://jobs.ashbyhq.com/kraken.com/225dd840-3938-4fe4-84cd-cca280efafc2) | AR, BG, BR, CL, CO, CY, CZ, HU, LT, MX, PE, PL, RO, SE, SI, SK, ZA |  | 2026-10-13 |
 | BVNK | [Senior DevOps Engineer](https://job-boards.eu.greenhouse.io/bvnk/jobs/5004269101) | ZA | EUR 70k-90k | 2026-10-13 |
 | Wave | [Senior Security Engineer](https://www.wave.com/en/careers/job/6216596004?gh_jid=6216596004) | ES, GB, GH, KE |  | 2026-10-13 |
@@ -718,23 +712,46 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | peopleworth | [AI Engineering Industry Mentor](https://apply.workable.com/j/61EEC709CC) | GB, ZA |  | 2026-10-08 |
 | Lifted, an Upwork Company™ | [Product Manager](https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990015946436) | ZA |  | 2026-10-07 |
 | EXANTE | [Data Engineer](https://job-boards.eu.greenhouse.io/xntltd/jobs/4989263101) | AE, AM, AZ, ID, KG, KZ, MU, US, UZ, VN |  | 2026-10-07 |
-| Kraken | [Software Engineer - Rust - Payward Services](https://jobs.ashbyhq.com/kraken.com/c6948e7c-1cc2-4c3d-be7f-84cb833e6536) | AR, BG, BR, CL, CO, CZ, HU, LT, MX, PE, PL, RO, SE, SI, SK, ZA |  | 2026-10-06 |
-| Kraken | [Senior Product Manager - Social Experience](https://jobs.ashbyhq.com/kraken.com/6366cb5d-6d5b-4768-a2e7-9941b4dd5100) | AE, AR, BG, BR, CA, CH, CL, CO, CY, CZ, ES, GB, HU, IE, LT, MX, PE, PL, PT, RO, SE, ZA |  | 2026-10-06 |
-| Clariness | [Senior AI Security Engineer (f/m/d)](https://career.clariness.com/careers/8245294?gh_jid=8245294) | DE, GB, RS, ZA |  | 2026-10-06 |
-| Hire Hangar | [Senior AI Platform Engineer](https://jobs.ashbyhq.com/hirehangar/c29595d3-a26a-4cb9-b4e9-d923214e63af) | AR, BZ, CL, CO, DO, EC, EG, HN, JM, MX, PA, PE, PL, PY, UA, UY, ZA | USD 2k-4k/mo | 2026-10-06 |
 
-## Asia-Pacific (534)
+## Asia-Pacific (520)
 
 | Company | Role | Open to | Pay | Posted |
 | --- | --- | --- | --- | --- |
+| GRVT TECHNOLOGIES | 🆕 [QA Automation Engineer](https://jobs.ashbyhq.com/grvt/8bf09ec0-58fd-4f63-8eb8-6769bac0d12a) | IN |  | 2026-11-06 |
+| Binance | 🆕 [Senior Data Engineer - Square (APAC Remote)](https://job-boards.eu.greenhouse.io/binance/jobs/5028320101) | CN, HK, SG, TW |  | 2026-11-05 |
+| IntegriChain | 🆕 [Data Engineer](https://jobs.smartrecruiters.com/IntegriChain1/744000159936677) | IN |  | 2026-11-05 |
+| CertifyOS | 🆕 [Staff Data Platform Engineer](https://jobs.ashbyhq.com/certifyos/dc312473-7dd8-449c-b707-a8c3231bca56) | IN |  | 2026-11-05 |
+| Lifted, an Upwork Company™ | 🆕 [Software Developer – AI Coding Assistant Evaluation](https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990016647634) | PH |  | 2026-11-05 |
+| Miratech | 🆕 [Full Stack Engineer (Go and React)](https://jobs.smartrecruiters.com/Miratech1/744000159861366) | IN |  | 2026-11-05 |
+| Global University Systems (GUS) | 🆕 [Landing Page Developer](https://gusglobaluniversitysystems-global-university-systems.teamtailor.com/jobs/8672004-landing-page-developer) | IN |  | 2026-11-05 |
+| Bjak | 🆕 [Product Manager - AI Finance](https://jobs.ashbyhq.com/bjakcareer/e3e27ee0-c864-4b15-bbc3-3f0f3e6e8678) | KR |  | 2026-11-05 |
+| Bjak | 🆕 [Product Manager - AI Investing](https://jobs.ashbyhq.com/bjakcareer/3458512c-58d8-48f4-a261-a9a8504f594b) | VN |  | 2026-11-05 |
+| Bjak | 🆕 [Product Manager - AI Neobank App](https://jobs.ashbyhq.com/bjakcareer/ab741f0f-44d1-44a8-aa6a-368cb592fca2) | CN |  | 2026-11-05 |
+| Bjak | 🆕 [Product Manager - AI Stockbroking](https://jobs.ashbyhq.com/bjakcareer/fa2e1160-cf76-4187-9974-93a0454421ff) | AU |  | 2026-11-05 |
+| Bjak | 🆕 [Product Engineer - AI Investing](https://jobs.ashbyhq.com/bjakcareer/6577d0cc-4323-4090-ba2a-f689449cb2f8) | AU |  | 2026-11-05 |
+| Bjak | 🆕 [Product Engineer - AI Stockbroking](https://jobs.ashbyhq.com/bjakcareer/33d15016-9cf4-426c-822d-d4ef1179bac6) | VN |  | 2026-11-05 |
+| AHEAD | 🆕 [Senior Software Developer - Elixir](https://jobs.lever.co/thinkahead/ff42823c-3691-4ba4-89fc-24b252fb75b2) | IN |  | 2026-11-05 |
+| Nagarro | 🆕 [Associate Staff Engineer (UniVerse PICK Developer)](https://jobs.smartrecruiters.com/Nagarro1/744000159792730) | IN |  | 2026-11-05 |
+| EVERSANA | 🆕 [AI Solutions Engineer (Generative AI & Agentic AI)](https://jobs.smartrecruiters.com/EVERSANA1/744000159792319) | IN |  | 2026-11-05 |
+| Weave | 🆕 [Senior Backend Engineer - India (Golang + Distributed Systems)](https://jobs.ashbyhq.com/weave/32a01f20-4157-4a04-9880-ccb27781b12c) | IN |  | 2026-11-05 |
+| Bjak | 🆕 [iOS Software Engineer](https://jobs.ashbyhq.com/bjakcareer/ac327c66-652f-402f-985a-43a2b576dc16) | IN |  | 2026-11-05 |
+| Bjak | 🆕 [Android Software Engineer](https://jobs.ashbyhq.com/bjakcareer/22126fc1-876b-4486-a879-7f2b506aecca) | IN |  | 2026-11-05 |
+| IBM | 🆕 [Senior Solutions Architect](https://careers.ibm.com/careers/JobDetail?jobId=140008) | TH |  | 2026-11-05 |
+| Ford Motor Company | 🆕 [Partner IAM - Security Platform Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72832) | IN |  | 2026-11-05 |
+| Akamai Technologies | 🆕 [Senior Network Infrastructure Engineer (Malaysia)](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4181) | MY |  | 2026-11-05 |
 | NVIDIA | 🆕 [Senior Solutions Architect, Networking and GPU System](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Remote/Senior-Solutions-Architect--Networking---GPU-System_JR2022712) | CN |  | 2026-11-05 |
+| Kyndryl | 🆕 [Senior Software Engineer](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Senior-Software-Engineer_R-69193-1) | IN |  | 2026-11-05 |
+| Syneos Health | 🆕 [Sr Statistical Programmer](https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Remote/Sr-Statistical-Programmer_25112936) | IN |  | 2026-11-05 |
+| Pavago | 🆕 [Video Game Developer](https://apply.workable.com/j/B09BD5401C) | PK |  | 2026-11-05 |
+| RocketAMS | 🆕 [Brand Manager, UX & Creative](https://apply.workable.com/j/76BBF3E997) | AU |  | 2026-11-05 |
+| Rolling Arrays - Consulting | 🆕 [SAP SF CPI - Solution Architect](https://apply.workable.com/j/5D86EE3D1C) | CN, MY, PH, SG |  | 2026-11-05 |
+| Super Speciosa | 🆕 [ERPNext / Frappe Developer - AI-Assisted Development](https://apply.workable.com/j/A7C0A63D25) | AR, BR, CL, CO, IN, MX |  | 2026-11-05 |
 | Temporal Technologies | 🆕 [Senior Developer Success Engineer - Singapore](https://jobs.ashbyhq.com/temporal/c3995b2d-785e-4b05-b350-b7f3a8ae84e4) | SG | SGD 132k-173k | 2026-11-04 |
-| NeuraFlash, Part of Accenture | 🆕 [Sr. Developer, AI and Agentforce](https://job-boards.greenhouse.io/neuraflash/jobs/6231611004) | IN |  | 2026-11-04 |
 | HighLevel | 🆕 [Sr. Product Manager - Conversations](https://jobs.lever.co/gohighlevel/ed7034a9-cd72-4994-b07a-04edf80bc4aa) | IN |  | 2026-11-04 |
 | openprovider | 🆕 [Product Manager (Domains & DNS) - Fully Remote job](https://openprovider.jobs.personio.de/job/2875391) | IN |  | 2026-11-04 |
 | Bidgely, Inc | 🆕 [Senior Product Support Engineer](https://jobs.ashbyhq.com/bidgely-inc/7b7ae479-f60d-4067-87b1-0c13727160fb) | IN |  | 2026-11-04 |
-| BTSE | 🆕 [(Sr.) QA Automation Engineer](https://jobs.lever.co/BTSE/ed2da226-a787-493e-ace0-9890ca3d2f8a) | SG |  | 2026-11-04 |
-| BTSE | 🆕 [(Sr.) QA Engineer](https://jobs.lever.co/BTSE/1902068b-6097-43aa-966c-7af035cc6998) | SG |  | 2026-11-04 |
+| BTSE | 🆕 [(Sr.) QA Automation Engineer](https://jobs.lever.co/BTSE/ed2da226-a787-493e-ace0-9890ca3d2f8a) | HK, SG |  | 2026-11-04 |
+| BTSE | 🆕 [(Sr.) QA Engineer](https://jobs.lever.co/BTSE/1902068b-6097-43aa-966c-7af035cc6998) | HK, SG |  | 2026-11-04 |
 | Bjak | 🆕 [Technical Product Manager](https://jobs.ashbyhq.com/bjakcareer/9d4e4fcc-c349-426e-891b-0cb9d535cde3) | VN |  | 2026-11-04 |
 | Bjak | 🆕 [Technical Product Manager - AI Investing](https://jobs.ashbyhq.com/bjakcareer/086cd55a-700a-4792-ac44-b608757c3f74) | AU |  | 2026-11-04 |
 | Bjak | 🆕 [Technical Product Manager - AI Stockbroking](https://jobs.ashbyhq.com/bjakcareer/1189fc79-a7f1-4e8a-95ec-631d1f547e50) | VN |  | 2026-11-04 |
@@ -742,14 +759,10 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Bjak | 🆕 [AI Phone - Applied ML / Model Engineer](https://jobs.ashbyhq.com/bjakcareer/22eea8fd-4dad-4087-9d08-13b06acdbcc3) | CN |  | 2026-11-04 |
 | Blend360 | 🆕 [Lead AI Engineer - Agentic Engineering](https://jobs.smartrecruiters.com/Blend360/744000159561869) | IN |  | 2026-11-04 |
 | Bjak | 🆕 [AI Phone - On-device AI / ML Systems Engineer](https://jobs.ashbyhq.com/bjakcareer/d38560ac-dc3e-42f3-aff3-0ccd3aa1443e) | CN |  | 2026-11-04 |
-| Bjak | 🆕 [Product Engineer - AI Stockbroking](https://jobs.ashbyhq.com/bjakcareer/f8f68399-6fd8-4ea8-aa0e-6fb083d2addc) | VN |  | 2026-11-04 |
 | Bjak | 🆕 [Product Engineer - AI Stockbroking App](https://jobs.ashbyhq.com/bjakcareer/53958ebd-6e74-4c82-8342-795aa4c77d2f) | AU |  | 2026-11-04 |
-| Bjak | 🆕 [Product Engineer - AI Neobank](https://jobs.ashbyhq.com/bjakcareer/7544cbdc-b5ea-469b-ac36-7ce0ca1b25f1) | VN |  | 2026-11-04 |
 | Bjak | 🆕 [Product Engineer - AI Neobank App](https://jobs.ashbyhq.com/bjakcareer/d589421e-4997-46a7-b1fd-42c60f0a1cfe) | AU |  | 2026-11-04 |
-| Bjak | 🆕 [Product Engineer - AI Investing](https://jobs.ashbyhq.com/bjakcareer/4f32adb3-9575-48c6-96bd-1c471e2be6a4) | VN |  | 2026-11-04 |
 | Bjak | 🆕 [AI Phone - Security & Privacy Engineer](https://jobs.ashbyhq.com/bjakcareer/639348cb-98a5-470f-a4ad-1bd73f5011bb) | CN |  | 2026-11-04 |
 | Bjak | 🆕 [Product Engineer - AI Investing App](https://jobs.ashbyhq.com/bjakcareer/ac09ea28-5e8c-4000-b247-84e920a1d1e3) | AU |  | 2026-11-04 |
-| Bjak | 🆕 [Product Engineer - AI Finance](https://jobs.ashbyhq.com/bjakcareer/57107957-0e3f-4f22-91fc-4e213781e86f) | VN |  | 2026-11-04 |
 | Bjak | 🆕 [AI Phone - Android Device Integration Engineer](https://jobs.ashbyhq.com/bjakcareer/b2e006e9-a24f-4464-b2d8-dd5dd5ea4c39) | CN |  | 2026-11-04 |
 | Bjak | 🆕 [AI Phone - AI Application Integration Engineer](https://jobs.ashbyhq.com/bjakcareer/78f6c0b7-4c86-4829-b968-00e75e4b182d) | CN |  | 2026-11-04 |
 | Bjak | 🆕 [AI Phone - Product Designer](https://jobs.ashbyhq.com/bjakcareer/bfacdd0f-1c5c-4ee7-a8a7-92bd9f794c4f) | CN |  | 2026-11-04 |
@@ -757,7 +770,6 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Bjak | 🆕 [Product Manager - AI Finance App](https://jobs.ashbyhq.com/bjakcareer/19104675-e003-40de-9185-82285cdeaccb) | AU |  | 2026-11-04 |
 | Bjak | 🆕 [Product Manager - AI Investing App](https://jobs.ashbyhq.com/bjakcareer/1c7ed3ec-9ea1-44a4-94b1-256702daa948) | AU |  | 2026-11-04 |
 | Bjak | 🆕 [AI Phone - Android / AOSP Engineer](https://jobs.ashbyhq.com/bjakcareer/a687b1ff-de02-4781-b71f-0509a42b09c2) | CN |  | 2026-11-04 |
-| Bjak | 🆕 [Product Manager - AI Neobank App](https://jobs.ashbyhq.com/bjakcareer/3ea43776-ba3d-4ea8-ac18-1638aafbec09) | AU |  | 2026-11-04 |
 | Bjak | 🆕 [Product Manager - AI Stockbroking App](https://jobs.ashbyhq.com/bjakcareer/e343145c-4f42-460a-95fe-136b3e174cd3) | AU |  | 2026-11-04 |
 | Bjak | 🆕 [AI Phone - Senior Android System Engineer](https://jobs.ashbyhq.com/bjakcareer/3ac8e495-6117-45b2-96f1-9ae9b4632927) | CN |  | 2026-11-04 |
 | Bjak | 🆕 [Android Developer - AI Finance Agent](https://jobs.ashbyhq.com/bjakcareer/7bbba3df-5d91-4ba3-9a96-c55fb46e80c8) | VN |  | 2026-11-04 |
@@ -768,31 +780,29 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Bjak | 🆕 [Lead Software Engineer](https://jobs.ashbyhq.com/bjakcareer/a50c1742-ac2b-47cc-91c8-ec6b63ad406f) | SG |  | 2026-11-04 |
 | Bjak | 🆕 [Staff Software Engineer](https://jobs.ashbyhq.com/bjakcareer/39810597-4543-44e6-900a-ec6ce01dbf63) | VN |  | 2026-11-04 |
 | Bjak | 🆕 [Principal Software Engineer](https://jobs.ashbyhq.com/bjakcareer/3c336b39-c925-470c-baf9-a35dc3a173c7) | HK |  | 2026-11-04 |
-| CI&T | 🆕 [Sr. Developer – Platform Ops Developer, QC (Remote/Night Shift)](https://jobs.lever.co/ciandt/ba0b5ba5-fda7-4f01-8af7-330c05b3deec) | PH | PHP 85k-130k/mo | 2026-11-04 |
-| ServiceNow | 🆕 [Product Designer](https://jobs.smartrecruiters.com/ServiceNow/744000159551529) | IN |  | 2026-11-04 |
+| CI&T | 🆕 [Senior Platform Ops Developer, QC (Remote/Night Shift)](https://jobs.lever.co/ciandt/ba0b5ba5-fda7-4f01-8af7-330c05b3deec) | PH | PHP 85k-130k/mo | 2026-11-04 |
 | Bjak | 🆕 [Backend Developer](https://jobs.ashbyhq.com/bjakcareer/c95ba0bd-5523-4ab7-86fd-d24363029afe) | CN |  | 2026-11-04 |
-| Genea | 🆕 [Senior Software Engineer (Video Streaming Engineer)](https://job-boards.greenhouse.io/genea/jobs/5472408008) | IN, US |  | 2026-11-04 |
-| Akamai Technologies | 🆕 [Senior Software Engineer](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4233) | IN |  | 2026-11-04 |
-| Pearson | 🆕 [Associate, Cloud Engineer (Intern)](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25829) | LK |  | 2026-11-04 |
-| Hitachi | 🆕 [Backend Web Developer](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---India/Backend-Web-Developer_R0146881) | IN |  | 2026-11-04 |
-| AT&T | 🆕 [Specialist System Engineering - DevOps Engineer — AI & Pipeline Automation](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/INDKABangalore--Intl-Tech-Park-Navigator-Bldg-Whitefield-Road-Intl-Tech-Park-Navigator-BldgIntl-Tech-Park-Navigator-Bldg/Sr-Specialist-System-Engineering---DevOps-Engineer---AI---Pipeline-Automation_R-120401) | IN |  | 2026-11-04 |
-| Ajaib | 🆕 [Senior Backend Engineer I - Platform](https://apply.workable.com/j/9D04545263) | ID |  | 2026-11-04 |
-| Ajaib | 🆕 [Senior Backend Engineer II - Platform](https://apply.workable.com/j/57E66C06BE) | ID, TH |  | 2026-11-04 |
-| CodeNinja | 🆕 [Senior SQA Automation Engineer](https://apply.workable.com/j/61999E76E1) | EG, IN |  | 2026-11-04 |
-| KAMI Workforce | 🆕 [AI Product Engineer](https://apply.workable.com/j/E655C5617F) | PH |  | 2026-11-04 |
-| Koru UX Design LLP | 🆕 [Design Director - Client Leadership (UX)](https://apply.workable.com/j/25234BE4A1) | IN |  | 2026-11-04 |
-| Teamified | 🆕 [Senior Product Designer (UI/UX)](https://apply.workable.com/j/A408FFD3C7) | PH |  | 2026-11-04 |
-| Weekday AI | 🆕 [Agentic AI Developer](https://apply.workable.com/j/E4A0C3FD74) | IN |  | 2026-11-04 |
-| Weekday AI | 🆕 [Senior Power Platform Developer](https://apply.workable.com/j/5B77726AC2) | IN |  | 2026-11-04 |
-| NewRocket | 🆕 [ServiceNow Senior Software Engineer - CSM + Service Portal](https://www.newrocket.com/careers/job?gh_jid=6241845004&gh_jid=6241845004) | IN |  | 2026-11-03 |
-| Algolia | 🆕 [Developer Support Engineer](https://job-boards.greenhouse.io/algolia/jobs/6215696004) | AU | AUD 100k-125k | 2026-11-03 |
-| Docker | 🆕 [Principal Solutions Architect, Professional Services](https://jobs.ashbyhq.com/docker/447c79ca-e8f7-4c87-af9d-74205d4ac2dd) | AU |  | 2026-11-03 |
-| David Kennedy Recruitment | 🆕 [Senior Backend Developer](https://davidkennedyrecruitment.teamtailor.com/jobs/8657426-senior-backend-developer) | TH |  | 2026-11-03 |
-| Silent Eight | 🆕 [Solution Architect (APAC)](https://silenteight.teamtailor.com/jobs/8656591-solution-architect-apac) | PL, SG |  | 2026-11-03 |
-| Menlo Security | 🆕 [Senior Security Engineer](https://jobs.ashbyhq.com/menlosecurity/08dabbda-d7ea-4bbb-a734-dc77f7e5b9dd) | IN |  | 2026-11-03 |
-| Atlassian | 🆕 [Software Engineer II](https://join.atlassian.com/jobs/27346) | IN |  | 2026-11-03 |
-| Atlassian | 🆕 [Senior Software Engineer - Trusted Data Platform](https://join.atlassian.com/jobs/26637) | IN |  | 2026-11-03 |
-| Bjak | 🆕 [Product Manager](https://jobs.ashbyhq.com/bjakcareer/d29268ad-778a-4914-bdfb-bfaa32b1f557) | SG |  | 2026-11-03 |
+| Genea | [Senior Software Engineer (Video Streaming Engineer)](https://job-boards.greenhouse.io/genea/jobs/5472408008) | IN, US |  | 2026-11-04 |
+| Pearson | [Associate, Cloud Engineer (Intern)](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25829) | LK |  | 2026-11-04 |
+| Hitachi | [Backend Web Developer](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---India/Backend-Web-Developer_R0146881) | IN |  | 2026-11-04 |
+| AT&T | [Specialist System Engineering - DevOps Engineer — AI & Pipeline Automation](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/INDKABangalore--Intl-Tech-Park-Navigator-Bldg-Whitefield-Road-Intl-Tech-Park-Navigator-BldgIntl-Tech-Park-Navigator-Bldg/Sr-Specialist-System-Engineering---DevOps-Engineer---AI---Pipeline-Automation_R-120401) | IN |  | 2026-11-04 |
+| Ajaib | [Senior Backend Engineer I - Platform](https://apply.workable.com/j/9D04545263) | ID |  | 2026-11-04 |
+| Ajaib | [Senior Backend Engineer II - Platform](https://apply.workable.com/j/57E66C06BE) | ID, TH |  | 2026-11-04 |
+| CodeNinja | [Senior SQA Automation Engineer](https://apply.workable.com/j/61999E76E1) | EG, IN |  | 2026-11-04 |
+| KAMI Workforce | [AI Product Engineer](https://apply.workable.com/j/E655C5617F) | PH |  | 2026-11-04 |
+| Koru UX Design LLP | [Design Director - Client Leadership (UX)](https://apply.workable.com/j/25234BE4A1) | IN |  | 2026-11-04 |
+| Teamified | [Senior Product Designer (UI/UX)](https://apply.workable.com/j/A408FFD3C7) | PH |  | 2026-11-04 |
+| Weekday AI | [Agentic AI Developer](https://apply.workable.com/j/E4A0C3FD74) | IN |  | 2026-11-04 |
+| Weekday AI | [Senior Power Platform Developer](https://apply.workable.com/j/5B77726AC2) | IN |  | 2026-11-04 |
+| NewRocket | [ServiceNow Senior Software Engineer - CSM + Service Portal](https://www.newrocket.com/careers/job?gh_jid=6241845004&gh_jid=6241845004) | IN |  | 2026-11-03 |
+| Algolia | [Developer Support Engineer](https://job-boards.greenhouse.io/algolia/jobs/6215696004) | AU | AUD 100k-125k | 2026-11-03 |
+| Docker | [Principal Solutions Architect, Professional Services](https://jobs.ashbyhq.com/docker/447c79ca-e8f7-4c87-af9d-74205d4ac2dd) | AU |  | 2026-11-03 |
+| David Kennedy Recruitment | [Senior Backend Developer](https://davidkennedyrecruitment.teamtailor.com/jobs/8657426-senior-backend-developer) | TH |  | 2026-11-03 |
+| Silent Eight | [Solution Architect (APAC)](https://silenteight.teamtailor.com/jobs/8656591-solution-architect-apac) | PL, SG |  | 2026-11-03 |
+| Menlo Security | [Senior Security Engineer](https://jobs.ashbyhq.com/menlosecurity/08dabbda-d7ea-4bbb-a734-dc77f7e5b9dd) | IN |  | 2026-11-03 |
+| Atlassian | [Software Engineer II](https://join.atlassian.com/jobs/27346) | IN |  | 2026-11-03 |
+| Atlassian | [Senior Software Engineer - Trusted Data Platform](https://join.atlassian.com/jobs/26637) | IN |  | 2026-11-03 |
+| Bjak | [Product Manager](https://jobs.ashbyhq.com/bjakcareer/d29268ad-778a-4914-bdfb-bfaa32b1f557) | SG |  | 2026-11-03 |
 | IBM | [Senior Software Engineer - Confluent](https://careers.ibm.com/careers/JobDetail?jobId=131937) | IN |  | 2026-11-03 |
 | Hitachi | [Frontend Web Developer](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---India/Frontend-Web-Developer_R0146882) | IN |  | 2026-11-03 |
 | NVIDIA | [Senior Network Product Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Vietnam-Remote/Senior-Product-Engineer---Board-Products_JR2015843) | VN |  | 2026-11-03 |
@@ -810,7 +820,7 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Smart Working Solutions | [DevOps / Platform Engineer (Remote, Full-Time) \[AS348\]](https://jobs.lever.co/smart-working-solutions/791d9cf0-a767-48dc-aa0c-c4a980af568a) | IN |  | 2026-11-02 |
 | Smart Working Solutions | [Python Backend Engineer (Remote, Full - Time) \[AS347\]](https://jobs.lever.co/smart-working-solutions/0683cf61-9c1a-4295-9fdf-fbc670316f53) | IN |  | 2026-11-02 |
 | CertifyOS | [Senior Software Engineer - Apps Team](https://jobs.ashbyhq.com/certifyos/0bcadb51-f3a0-4bfb-8dd7-be3f283c55a7) | IN |  | 2026-11-02 |
-| Built In | [Senior/Staff Software Engineer](https://job-boards.greenhouse.io/builtin/jobs/8337812) | IN |  | 2026-11-02 |
+| Built In | [Senior Software Engineer](https://job-boards.greenhouse.io/builtin/jobs/8337812) | IN |  | 2026-11-02 |
 | Nagarro | [Associate Distinguished Engineer (Technology Architect, Automotive, Data Architecture, Generative AI, Integration, Cloud)](https://jobs.smartrecruiters.com/Nagarro1/744000159092499) | IN |  | 2026-11-02 |
 | XO Health Inc. | [Full Stack Engineer (Front-End)](https://job-boards.greenhouse.io/xohealthinc/jobs/5279104007) | IN | INR 1500k-2500k | 2026-11-02 |
 | Smart Working Solutions | [Senior Data Engineer / Developer (Remote, Full-Time) \[HR221\]](https://jobs.lever.co/smart-working-solutions/d3ffbb13-01ad-4a06-8029-db5d911e71c4) | IN |  | 2026-11-02 |
@@ -820,6 +830,7 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | XO Health Inc. | [Senior Full Stack Engineer](https://job-boards.greenhouse.io/xohealthinc/jobs/5280536007) | IN | INR 2500k-3500k | 2026-11-02 |
 | Lingaro | [Cloud DevOps Engineer](https://jobs.lever.co/lingarogroup/b4aa26da-1f29-42d0-818a-93577800bc6b) | IN |  | 2026-11-02 |
 | NewRocket | [Lead AI/ML Engineer](https://www.newrocket.com/careers/job?gh_jid=6238261004&gh_jid=6238261004) | IN |  | 2026-11-02 |
+| GoDaddy | [Senior Product Manager - Domains](https://careers.godaddy/jobs?gh_jid=8036009003) | IN |  | 2026-11-02 |
 | NewRocket | [ServiceNow Solution Architect - SPM](https://www.newrocket.com/careers/job?gh_jid=6240376004&gh_jid=6240376004) | IN |  | 2026-11-02 |
 | CLANX | [Product Engineer - Remote](https://jobs.clanx.ai/o/product-engineer-remote) | IN |  | 2026-11-02 |
 | NVIDIA | [Senior DevOps and Infrastructure Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Senior-DevOps-and-Infrastructure-Engineer_JR2028545) | IN |  | 2026-11-02 |
@@ -867,21 +878,16 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Miratech | [DevOps Engineer](https://jobs.smartrecruiters.com/Miratech1/744000158577399) | IN |  | 2026-10-29 |
 | CertifyOS | [Senior Product Manager, Forward Deployed](https://jobs.ashbyhq.com/certifyos/a359c3ca-2937-427c-b9a3-f083c3bb04e6) | IN |  | 2026-10-29 |
 | Bjak | [Technical Product Manager - AI Finance App](https://jobs.ashbyhq.com/bjakcareer/d81927b2-8690-401f-8953-cef4d7538375) | AU |  | 2026-10-29 |
-| GRVT TECHNOLOGIES | [QA Automation Engineer](https://jobs.ashbyhq.com/grvt/ff286fc8-8890-497e-9792-c51a283f167d) | CN, HK, KR, MY, SG, TH, TW, VN |  | 2026-10-29 |
-| Bjak | [Product Manager - AI Stockbroking](https://jobs.ashbyhq.com/bjakcareer/2f400d37-50a3-45c1-80ad-776a54fa30dd) | HK |  | 2026-10-29 |
 | Directio Sp. z o.o. | [Oracle C2M SOA Developer / Admin (Remote, Project-Based)](https://directio.teamtailor.com/jobs/8633882-oracle-c2m-soa-developer-admin-remote-project-based) | PH |  | 2026-10-29 |
 | Dijital Team | [AI Developer (Python/ Django)](https://jobs.lever.co/dijital-team-pty-ltd/9edbdbec-4130-4ca7-b4e7-93151d9a4a79) | LK |  | 2026-10-29 |
 | Megaport | [Backend Software Engineer](https://jobs.lever.co/megaport/49b7579a-729e-44a9-b6c2-e8b95847708d) | AU, GB |  | 2026-10-29 |
 | Sophos | [Product Manager](https://jobs.lever.co/sophos/36d14696-10f4-4459-a007-c98d15557eba) | IN |  | 2026-10-29 |
 | Experian | [PHP Developer](https://jobs.smartrecruiters.com/Experian/744000158438154) | MY |  | 2026-10-29 |
 | Fortive | [Software Engineering P17](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/11010) | IN |  | 2026-10-29 |
-| GE Vernova | [Sr Staff Technical Product Manager](https://gevernova.wd5.myworkdayjobs.com/Only_Confidential_Executive_Recruiting/job/Greenville/Sr-Staff-Technical-Product-Manager_R5057181-1) | IN, US |  | 2026-10-29 |
 | ABB | [IS Architect – Enterprise Architecture Practice & Governance](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Poland/IS-Architect---Enterprise-Architecture-Practice---Governance_JR00051076) | CH, IN, IT, PL |  | 2026-10-29 |
 | Cushman & Wakefield | [Junior Solutions Architect](https://cw.wd1.myworkdayjobs.com/External/job/Mumbai-India/Junior-Solutions-Architect_R335188) | IN |  | 2026-10-29 |
 | Salesforce | [Technical Architect - Tableau](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo---Remote/Technical-Architect---Tableau_JR353574) | JP |  | 2026-10-29 |
 | Mondelez International | [Product Manager, Performance Management](https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Remote-Worker---India/Business-Analyst--Performance-Management---Experience--People-Services_R-171227-1) | IN |  | 2026-10-29 |
-| Kyndryl | [Software Engineering Technical Specialist – Workday Integrations](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Software-Engineering-Technical-Specialist---Workday-Integrations_R-65174) | IN |  | 2026-10-29 |
-| Kyndryl | [Platform Security Architect](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Platform-Security-Architect_R-69811-1) | IN |  | 2026-10-29 |
 | Kyndryl | [Infrastructure -Cloud Architect](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Infrastructure--Cloud-Architect_R-70667-1) | IN |  | 2026-10-29 |
 | Kyndryl | [Mainframe z/OS System Programmer](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Mainframe-z-OS-System-Programmer_R-70907) | IN |  | 2026-10-29 |
 | Kyndryl | [Software Engineering - Technical Specialist](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Hyderabad-Telangana-India/Software-Engineering---Technical-Specialist_R-69559) | IN |  | 2026-10-29 |
@@ -895,9 +901,7 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Pavago | [AI Engineer](https://apply.workable.com/j/4ABDEC0BF1) | PK |  | 2026-10-29 |
 | Pavago | [Business Applications Developer](https://apply.workable.com/j/EAEF8FF002) | PH |  | 2026-10-29 |
 |  | [Senior Solution Architect-South Korea](https://ats.rippling.com/agora/jobs/fd05350c-1a2a-48ff-b755-79c58261543d) | KR |  | 2026-10-28 |
-| Miratech | [Full Stack Engineer (Go and React)](https://jobs.smartrecruiters.com/Miratech1/744000158327019) | IN |  | 2026-10-28 |
 | Atticus Advisory Solutions | [NetSuite Developer](https://atticusadvisorysolutions.teamtailor.com/jobs/8631299-netsuite-developer) | PH |  | 2026-10-28 |
-| Feedzai | [Senior Software Engineer - Customer Success](https://careers.feedzai.com/job_description?gh_jid=8275292) | PH |  | 2026-10-28 |
 | TSMG | [Quality control specialist for AI/ ML with Sinhala (traditional Sri Lanka) language](https://jobs.lever.co/tsmg/db4e27e4-d6e9-4382-bca9-77635d9134ac) | LK |  | 2026-10-28 |
 | Bjak | [Lead Technical Product Manager](https://jobs.ashbyhq.com/bjakcareer/caa4cb57-1951-4c60-a130-9e44beda8c97) | HK |  | 2026-10-28 |
 | Bjak | [Senior Technical Product Manager](https://jobs.ashbyhq.com/bjakcareer/73991596-ceec-477f-bda4-e185a614c1f3) | SG |  | 2026-10-28 |
@@ -952,7 +956,6 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Bjak | [Principal Software Engineer, AI Email App](https://jobs.ashbyhq.com/bjakcareer/4999f460-0c6a-4a50-a57a-62ffdbeb2df6) | SG |  | 2026-10-26 |
 | Bjak | [Staff Software Engineer, AI Email App](https://jobs.ashbyhq.com/bjakcareer/85003713-ef9e-48be-ba0e-4f8ce9cf86e4) | SG |  | 2026-10-26 |
 | Bjak | [Software Engineer, Desktop](https://jobs.ashbyhq.com/bjakcareer/75caeb2a-2b15-4062-8167-b150f2f34294) | SG |  | 2026-10-26 |
-| Bjak | [Android Software Engineer](https://jobs.ashbyhq.com/bjakcareer/d883246e-d573-4e03-94fb-46795b311f90) | ID |  | 2026-10-26 |
 | Bjak | [Full Stack Engineer, AI Internal Systems](https://jobs.ashbyhq.com/bjakcareer/8a1ac53b-279c-4fe7-b126-1fbe2b284e92) | CN |  | 2026-10-26 |
 | Bjak | [Backend Engineer, AI Internal Systems](https://jobs.ashbyhq.com/bjakcareer/4693af98-b7d4-47dd-a4c0-5d9ebdff081a) | CN |  | 2026-10-26 |
 | Altisource | [Senior Software Engineer](https://jobs.smartrecruiters.com/Altisource/744000157737659) | IN |  | 2026-10-26 |
@@ -967,7 +970,6 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Salesforce | [Technical Architect](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Korea---Remote/Technical-Architect_JR353933-1) | KR |  | 2026-10-26 |
 | Kyndryl | [Azure DevOps Engineer](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Azure-DevOps-Engineer_R-68622-1) | IN |  | 2026-10-26 |
 | Kyndryl | [Mainframe Application Support Engineer](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Mainframe-Application-Support-Engineer_R-70675) | IN |  | 2026-10-26 |
-| Kyndryl | [Senior Software Engineer](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Senior-Software-Engineer_R-69574-1) | IN |  | 2026-10-26 |
 | Kyndryl | [Platform Engineer](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Platform-Engineer_R-70323-1) | IN |  | 2026-10-26 |
 | 3M | [Application Engineer – Industrial Adhesives and Tapes Division (IATD)](https://3m.wd1.myworkdayjobs.com/Search/job/MY-VIRTUAL-PENANG/Application-Engineer---Industrial-Adhesives-and-Tapes-Division--IATD-_R01164521) | MY |  | 2026-10-26 |
 | Curtiss-Wright Corporation | [Firmware Engineer](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/IND-Remote-Work/Firmware-Engineer_JR14062) | IN |  | 2026-10-26 |
@@ -1006,7 +1008,6 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Picus | [Solution Architect - Vietnam](https://jobs.lever.co/picus/3a2499d5-39e5-40c1-a0ff-3aa8d46bc73e) | VN |  | 2026-10-22 |
 | G2i Inc. | [Senior Software Engineer, AI Training - AU](https://jobs.ashbyhq.com/g2i/e375fee4-35a0-40b3-8869-744683056806) | AU | USD 100-200/h | 2026-10-22 |
 | Bugcrowd | [Application Security Engineer II (Contract - 5 months )](https://boards.greenhouse.io/bugcrowd/jobs/8288958?gh_jid=8288958) | IN |  | 2026-10-22 |
-| Bugcrowd | [Application Security Engineer](https://boards.greenhouse.io/bugcrowd/jobs/8288959?gh_jid=8288959) | IN |  | 2026-10-22 |
 | HighLevel | [Sr. Product Manager - Reputation Management](https://jobs.lever.co/gohighlevel/de899a79-e7e0-4650-8356-08a5d95b4198) | IN |  | 2026-10-22 |
 | Lingaro | [ML/AI Engineer - Venturesoft.ai](https://jobs.lever.co/lingarogroup/329b3b9b-a47e-4cd4-8540-ba7a51a14fbf) | IN |  | 2026-10-22 |
 | Bjak | [Product Designer (UI/UX)](https://jobs.ashbyhq.com/bjakcareer/bfbce6c4-1882-4c9b-bb8e-2475da437648) | VN |  | 2026-10-22 |
@@ -1016,38 +1017,31 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Kyndryl | [Software Engineer](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Noida-Uttar-Pradesh-India/Software-Engineer_R-69770-1) | IN |  | 2026-10-22 |
 | Hunt St | [Full Stack Developer (Contract) (007-1381)](https://apply.workable.com/j/94E7BBBAEB) | PH | AUD 3k-4k/mo | 2026-10-22 |
 | MIRA CONSTRUCTION L.L.C | [Head of ML / Head of Quant Research (Crypto Trading)](https://apply.workable.com/j/0915E2C0E4) | CY, GB, NL, RS, SG, US |  | 2026-10-22 |
-| Pavago | [Senior Backend Engineer](https://apply.workable.com/j/34E2B7263D) | PK |  | 2026-10-22 |
-| Genea | [Software Engineering Manager (Video Streaming)](https://job-boards.greenhouse.io/genea/jobs/5050164008) | IN, US |  | 2026-10-21 |
-| GitLab | [Senior Solutions Architect](https://job-boards.greenhouse.io/gitlab/jobs/8880947002) | SG |  | 2026-10-21 |
-| GitLab | [Senior Solutions Architect - Japan](https://job-boards.greenhouse.io/gitlab/jobs/8890389002) | JP |  | 2026-10-21 |
-| Miratech | [Senior Genesys Routing Developer](https://jobs.smartrecruiters.com/Miratech1/744000156866129) | IN |  | 2026-10-21 |
-| Tala | [Senior Cloud Infrastructure Engineer](https://jobs.lever.co/tala/c18a4ef9-5d80-4953-afc3-e5a1ed8f75bf) | IN, US |  | 2026-10-21 |
-| Loopio Inc. | [Staff Software Developer](https://jobs.ashbyhq.com/loopio/28b76abd-b206-45cc-b23c-b09cb13c87e1) | IN |  | 2026-10-21 |
-| SupplyHouse.com | [Backend Engineer](https://boards.greenhouse.io/supplyhouse/jobs/6208712004?gh_jid=6208712004) | IN | USD 30k-37k | 2026-10-21 |
-| Loopio Inc. | [Senior Software Developer](https://jobs.ashbyhq.com/loopio/faffd0f5-7d27-47f9-ab93-94e8aa57006c) | IN |  | 2026-10-21 |
-| Eltropy Inc. | [Senior Frontend Engineer](https://job-boards.greenhouse.io/eltropyinc/jobs/4462166009) | IN |  | 2026-10-21 |
-| Salmon Group | [Technical Product Manager](https://jobs.ashbyhq.com/salmon-group/d4fba2e3-fa0f-40bb-99e1-e8df617b655d) | AM, KZ, RS, US |  | 2026-10-21 |
-| | 234 more on the [filterable page](https://jordan-belfort-ai.github.io/Remote-Jobs-Open-To-You/) | | | |
+| | 220 more on the [filterable page](https://jordan-belfort-ai.github.io/Remote-Jobs-Open-To-You/) | | | |
 
-## Europe (anywhere in a region, not one country) (87)
+## Europe (anywhere in a region, not one country) (81)
 
 | Company | Role | Open to | Pay | Posted |
 | --- | --- | --- | --- | --- |
+| Camunda | 🆕 [Senior Product Designer](https://jobs.ashbyhq.com/camunda/a29de600-f2b1-4b7d-806b-0c3758cd34d9) | EMEA |  | 2026-11-05 |
+| fonio | 🆕 [Forward Deployed Engineer - Spanish](https://jobs.ashbyhq.com/fonio/bb12bdde-c53c-4443-8dcd-a7bc0085d689) | Europe | EUR 65k-95k | 2026-11-05 |
+| RapDev | 🆕 [Senior Cloud Engineer, UK](https://jobs.ashbyhq.com/rapdev/04289763-ca3e-452e-be21-078c2653cc38) | EMEA | GBP 75k-95k | 2026-11-05 |
+| Nevis Wealth | 🆕 [Data Engineer](https://jobs.ashbyhq.com/nevis/ec43f378-0ebb-43c6-ab03-ef454366b27f) | Europe |  | 2026-11-05 |
+| Zenrows | 🆕 [Staff Software Engineer](https://job-boards.eu.greenhouse.io/zenrows/jobs/5028295101) | EMEA |  | 2026-11-05 |
+| Oyster | 🆕 [Senior AI Product Engineer](https://jobs.ashbyhq.com/oyster/b3c1e89e-f45b-4c14-9fea-42310ee9231b) | EMEA, AR, AT, BG, BR, CL, CO, DE, ES, GR, HU, IE, LV, PE, PL, PT, RO, SK |  | 2026-11-05 |
 | Playson | 🆕 [Manual QA Engineer (Game Client)](https://jobs.ashbyhq.com/playson/10588b28-7e0b-4881-8dcc-712cde713e70) | Europe |  | 2026-11-04 |
-| Volta | 🆕 [Data Centre Safety Engineer](https://jobs.ashbyhq.com/volta/f369da8d-37db-41fb-ba24-7b5a8c4a3ea3) | Europe | EUR 95k-130k | 2026-11-04 |
 | Grafana Labs | 🆕 [Senior Product Designer, Knowledge Graph \| Sweden \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6250115004) | EMEA, CA, SE, US | SEK 721k-866k | 2026-11-04 |
 | Grafana Labs | 🆕 [Senior Product Designer, Knowledge Graph \| Spain \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6250126004) | EMEA, CA, ES, US | EUR 76k-91k | 2026-11-04 |
 | Grafana Labs | 🆕 [Senior Product Designer, Knowledge Graph \| Germany \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6250123004) | EMEA, CA, DE, US |  | 2026-11-04 |
-| Seon | 🆕 [Senior Security Engineer](https://jobs.ashbyhq.com/seon/0c9017dd-8e0c-4d78-8784-61dbea2ca742) | Europe |  | 2026-11-03 |
-| Ruby Labs | 🆕 [Data Analytics Engineer](https://jobs.ashbyhq.com/ruby-labs/5fb76187-efa5-486d-8ceb-5309ac0fefd4) | Europe, UA |  | 2026-11-03 |
-| Grafana Labs | 🆕 [Senior Product Designer, Knowledge Graph \| Ireland \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6146095004) | EMEA, CA, IE, US | EUR 95k-114k | 2026-11-03 |
-| Grafana Labs | 🆕 [Senior Product Designer, Knowledge Graph \| United Kingdom \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6146093004) | EMEA, CA, GB, US | GBP 84k-100k | 2026-11-03 |
+| Seon | [Senior Security Engineer](https://jobs.ashbyhq.com/seon/0c9017dd-8e0c-4d78-8784-61dbea2ca742) | Europe |  | 2026-11-03 |
+| Ruby Labs | [Data Analytics Engineer](https://jobs.ashbyhq.com/ruby-labs/5fb76187-efa5-486d-8ceb-5309ac0fefd4) | Europe, UA |  | 2026-11-03 |
+| Grafana Labs | [Senior Product Designer, Knowledge Graph \| Ireland \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6146095004) | EMEA, CA, IE, US | EUR 95k-114k | 2026-11-03 |
+| Grafana Labs | [Senior Product Designer, Knowledge Graph \| United Kingdom \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6146093004) | EMEA, CA, GB, US | GBP 84k-100k | 2026-11-03 |
 | ElevenLabs | [Full-Stack Engineer (Backend Leaning) - Payments Engineering](https://jobs.ashbyhq.com/elevenlabs/e4e0450f-d139-4f8e-b210-2f326a680d90) | Europe, GB, IE, PL, US |  | 2026-11-02 |
 | ElevenLabs | [Full-Stack Engineer (Backend Leaning) - Platform Engineering](https://jobs.ashbyhq.com/elevenlabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0) | Europe, GB, IE, PL, US |  | 2026-11-02 |
 | Nuitée | [Staff Software Engineer, Field Engineering](https://job-boards.eu.greenhouse.io/nuitee/jobs/5024813101) | Europe |  | 2026-11-02 |
 | Polygon Labs | [Platform Engineer](https://jobs.ashbyhq.com/polygon-labs/bd4f73d1-08b5-410a-9c7a-34a2f65ac45a) | EMEA |  | 2026-10-30 |
 | Salmon Group | [iOS Developer](https://jobs.ashbyhq.com/salmon-group/5137c620-9685-483e-b8b8-23cd9c031c8b) | Europe, KZ |  | 2026-10-30 |
-| Oyster | [Software Engineer (Ruby on Rails, APIs)](https://jobs.ashbyhq.com/oyster/4f5d4a8a-59a8-4696-b499-c01e740795c1) | EMEA |  | 2026-10-30 |
 | Bureau | [Senior Product Manager - Credit Risk](https://jobs.ashbyhq.com/bureau/ff1dd2e0-ac5b-4efa-b27a-6cd49aefca0e) | APAC, EMEA, GB, US |  | 2026-10-30 |
 | Lokalise | [Senior Full-Stack Engineer](https://lokalise.com/job?gh_jid=8078426003) | Europe, ES, GB, LV |  | 2026-10-29 |
 | Nuitée | [Software Engineer, Flights](https://job-boards.eu.greenhouse.io/nuitee/jobs/5020333101) | Europe |  | 2026-10-29 |
@@ -1055,25 +1049,22 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Fundamental | [Founding Product Designer](https://jobs.ashbyhq.com/fundamental/ad9867af-3236-479c-a73e-da1fe1f179db) | Europe |  | 2026-10-28 |
 | Alpaca | [Senior Software Engineer – Agent Developer Platform](https://job-boards.greenhouse.io/alpaca/jobs/6237975004) | Americas, Europe, US |  | 2026-10-28 |
 | Alpaca | [Senior Software Engineer – Agent Experiences](https://job-boards.greenhouse.io/alpaca/jobs/6237960004) | Americas, Europe, US |  | 2026-10-28 |
-| Alpaca | [Senior Frontend Engineer - Acquisition](https://job-boards.greenhouse.io/alpaca/jobs/6231762004) | Europe, US |  | 2026-10-28 |
+| Alpaca | [Senior Product Engineer - Growth](https://job-boards.greenhouse.io/alpaca/jobs/6231762004) | Europe, US |  | 2026-10-28 |
 | Testlio | [Principal Software Architect](https://job-boards.greenhouse.io/testlio/jobs/8327404) | EMEA |  | 2026-10-27 |
 | Easyship | [Senior Product Manager (Finance and Account Management)](https://boards.greenhouse.io/easyship/jobs/4715821006?gh_jid=4715821006) | Europe |  | 2026-10-27 |
 | Oyster | [Senior AI Solutions Engineer](https://jobs.ashbyhq.com/oyster/34e9f726-4461-4ef7-9724-a0aba8c72a76) | EMEA, BR, CA, ES, GB, IE, PL, PT, RO |  | 2026-10-26 |
 | Notabene | [Staff Backend Software Engineer](https://jobs.ashbyhq.com/notabene/2985ccb1-d866-4b27-8e94-e7bf6ae71754) | EMEA |  | 2026-10-26 |
-| Contentstack | [Business Intelligence Data Architect](https://www.contentstack.com/company/careers/8045018003?gh_jid=8045018003) | Europe, NL |  | 2026-10-26 |
+| Contentstack | [Business Intelligence Data Architect](https://www.contentstack.com/company/careers/8045018003?gh_jid=8045018003) | Europe, NL | EUR 75k-95k | 2026-10-26 |
 | Nuitée | [Data Analyst, Supply](https://job-boards.eu.greenhouse.io/nuitee/jobs/5016083101) | Europe |  | 2026-10-26 |
 | Nuitée | [Senior Product Manager, Customer Operations](https://job-boards.eu.greenhouse.io/nuitee/jobs/5015803101) | Europe |  | 2026-10-26 |
 | Plume | [Senior Data Scientist](https://www.plume.com/career-opportunities/?gh_jid=8890872002) | Europe |  | 2026-10-25 |
 | GitLab | [Intermediate Fullstack Engineer (Ruby/Vue.js), Growth](https://job-boards.greenhouse.io/gitlab/jobs/8891836002) | EMEA, GB |  | 2026-10-23 |
-| Cyberhaven | [Senior Product Manager](https://jobs.ashbyhq.com/cyberhaven/c89706ad-d95c-48c5-b94c-812857492d78) | Europe, RO |  | 2026-10-22 |
+| Telnyx | [Technical Product Manager, Developer Experience & Product-Led Growth](https://job-boards.greenhouse.io/telnyx54/jobs/8042159003) | EMEA, GB, IE, US |  | 2026-10-22 |
 | Nebius | [Product Manager - Anti Fraud](https://careers.nebius.com/?gh_jid=5001806101) | Europe, NL |  | 2026-10-22 |
 | Fundamental | [Technical Product Manager - Inference](https://jobs.ashbyhq.com/fundamental/ad16dc2c-9f8f-4ca1-8f8e-abb853762e82) | Europe |  | 2026-10-21 |
 | ClickHouse | [Technical Curriculum Developer, Platform - EMEA](https://jobs.ashbyhq.com/clickhouse/a40eebe3-7f71-4119-8258-4a77da2ebc79) | Europe, DE, ES, FR, GB, NL |  | 2026-10-21 |
 | Form3 (via Otta) | [Senior Platform Security Engineer - AI Resilience & Security Enhancements (Contract)](https://job-boards.greenhouse.io/541/jobs/8906057002) | Europe, GB |  | 2026-10-21 |
 | Nebius | [Staff Machine Learning Engineer, LLM Inference Optimization](https://careers.nebius.com/?gh_jid=5012275101) | Europe, CH, CZ, DE, GB, NL, PL |  | 2026-10-21 |
-| fonio | [Forward Deployed Engineer - Spanish](https://jobs.ashbyhq.com/fonio/bb12bdde-c53c-4443-8dcd-a7bc0085d689) | Europe | EUR 65k-95k | 2026-10-20 |
-| fonio | [Forward Deployed Engineer - Italian](https://jobs.ashbyhq.com/fonio/089f996b-0b09-4b16-bae8-edfd3ce44fee) | Europe | EUR 65k-95k | 2026-10-20 |
-| fonio | [Forward Deployed Engineer - French](https://jobs.ashbyhq.com/fonio/4b9623b5-95cf-4af7-b60b-ad852091bbb8) | Europe | EUR 65k-95k | 2026-10-20 |
 | Pragma & FirstLook | [FirstLook Solutions Architect \| Customer Success](https://ats.rippling.com/pragma/jobs/5554db2d-33d0-443e-b47f-49a5891d748d) | Europe, US |  | 2026-10-20 |
 | Nuitée | [Staff Data Analyst](https://job-boards.eu.greenhouse.io/nuitee/jobs/5011572101) | Europe |  | 2026-10-20 |
 | P2P. org | [Product Designer (new product)](https://jobs.ashbyhq.com/p2p.org/dad5d6d3-6032-4336-b6bd-72ccda7311af) | Europe, KZ, ME, PL, RS |  | 2026-10-20 |
@@ -1090,7 +1081,6 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Nebius | [Staff Software Engineer (Agentic Search) - Runtime](https://careers.nebius.com/?gh_jid=5008351101) | Europe, ES, GB, NL |  | 2026-10-16 |
 | Nebius | [Staff Software Engineer (Agentic Search) - Crawler](https://careers.nebius.com/?gh_jid=5008404101) | Europe, CH, ES, GB, NL |  | 2026-10-16 |
 | Nebius | [Senior ML Engineer (Agentic Search)](https://careers.nebius.com/?gh_jid=5008613101) | Europe, CH, GB, NL |  | 2026-10-16 |
-| Alpaca | [Senior Fullstack Engineer- Auth Team](https://job-boards.greenhouse.io/alpaca/jobs/6226254004) | Americas, Europe, US |  | 2026-10-15 |
 | vCluster Labs | [Staff Software Engineer](https://jobs.ashbyhq.com/vclusterlabs/b7b2cc41-1d09-4b5c-a2e8-c8408d06fc60) | EMEA | EUR 75k-145k | 2026-10-15 |
 | vCluster Labs | [Senior Software Engineer (Backend)](https://jobs.ashbyhq.com/vclusterlabs/3dc36a55-ed19-4f73-acbb-9de6474f479a) | EMEA | EUR 60k-125k | 2026-10-15 |
 | Plume | [Senior Product Manager](https://www.plume.com/career-opportunities/?gh_jid=8887504002) | Europe |  | 2026-10-15 |
@@ -1098,7 +1088,6 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | LI.FI | [Product Manager](https://jobs.ashbyhq.com/li.fi/852c6b3d-9f46-47ae-adb1-a5ed2608aac7) | EMEA | EUR 80k-100k | 2026-10-14 |
 | Nuitée | [Senior Product Manager, Payments & Finance](https://job-boards.eu.greenhouse.io/nuitee/jobs/5006108101) | Europe |  | 2026-10-14 |
 | IP Fabric | [Senior Infrastructure Operations Engineer](https://ipfabric.io/jobs-listing/?gh_jid=5001750101) | Europe, CZ |  | 2026-10-14 |
-| Alpaca | [Staff Fullstack Engineer](https://job-boards.greenhouse.io/alpaca/jobs/6223595004) | Americas, Europe, US |  | 2026-10-13 |
 | Alpaca | [Product Manager - Brokerage - UK](https://job-boards.greenhouse.io/alpaca/jobs/6221656004) | Europe, GB |  | 2026-10-13 |
 | Smartcat | [Senior DevOps and Infrastructure Engineer](https://www.smartcat.com/career/?gh_jid=6222885004) | Europe, ES |  | 2026-10-13 |
 | Qualio | [Senior Full Stack Engineer (Remote Ireland )](https://job-boards.greenhouse.io/qualio/jobs/8026748003) | Europe, IE |  | 2026-10-12 |
@@ -1107,7 +1096,7 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Nebius | [Senior Customer AI Engineer - Token Factory](https://careers.nebius.com/?gh_jid=5000504101) | Europe |  | 2026-10-09 |
 | Salmon Group | [Android Developer](https://jobs.ashbyhq.com/salmon-group/551a3c44-f673-4ae2-8fe4-05450488eea3) | Europe, US |  | 2026-10-09 |
 | Grafana Labs | [Senior Product Designer, Knowledge Graph \| Canada \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6146092004) | EMEA, CA, US | CAD 151k-181k | 2026-10-09 |
-| Grafana Labs | [Senior Product Designer, Knowledge Graph \| US \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6146091004) | EMEA, CA, US | USD 148k-178k | 2026-10-09 |
+| Grafana Labs | [Senior Product Designer, Knowledge Graph \| USA \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6146091004) | EMEA, CA, US | USD 148k-178k | 2026-10-09 |
 | Lyric | [Principal Software Engineer - Data](https://jobs.ashbyhq.com/lyric/090db238-fef0-41f0-85a6-984839b4c0a8) | Europe, IN |  | 2026-10-08 |
 | Luma | [Research Scientist / Engineer – Reinforcement Learning Infrastructure](https://jobs.ashbyhq.com/lumaai/3abaffc4-01f1-4d72-b20d-4c8474d8cc80) | Europe |  | 2026-10-08 |
 | Luma | [Software Engineer, Inference](https://jobs.ashbyhq.com/lumaai/d0f68f86-1ec2-4443-a730-0d8f68842545) | Europe |  | 2026-10-08 |
@@ -1115,11 +1104,6 @@ Roles open to each country, worldwide and regional ones included (only the filte
 | Luma | [Research Scientist / Engineer – Training Infrastructure](https://jobs.ashbyhq.com/lumaai/d94b1360-710c-4f3b-93a8-e4ac51591e9a) | Europe |  | 2026-10-08 |
 | Ruby Labs | [Accounting Automation Engineer](https://jobs.ashbyhq.com/ruby-labs/714d58e3-7444-4e51-bd98-1c0ddbd33c90) | Europe |  | 2026-10-08 |
 | XBOW | [Software Engineer - Console](https://jobs.ashbyhq.com/xbowcareers/d30142de-7c89-4112-8743-10f1817c11bb) | Europe, AR, US | USD 100k-350k | 2026-10-08 |
-| ScorePlay | [Solutions Architect - EMEA](https://jobs.ashbyhq.com/scoreplay/9f6385a5-357f-4792-93c4-3358a2772989) | Europe |  | 2026-10-06 |
-| tem | [Senior Software Engineer - Pricing](https://jobs.ashbyhq.com/tem/1dbe845c-a1ec-4005-92c6-44dec63b2e44) | Europe, GB | GBP 83k | 2026-10-06 |
-| Wand Synthesis AI Inc | [Staff Software Engineer, Fullstack /Frontend Focus (Governance)](https://jobs.ashbyhq.com/wand-ai/bd931922-8b03-45b1-91ab-5dac634731d9) | Europe |  | 2026-10-06 |
-| Nuitée | [Senior Backend Engineer (Node.js)](https://job-boards.eu.greenhouse.io/nuitee/jobs/4998449101) | Europe |  | 2026-10-06 |
-| Nuitée | [Senior Product Engineer, R&D](https://job-boards.eu.greenhouse.io/nuitee/jobs/4997791101) | Europe |  | 2026-10-06 |
 
 ## How "open to" is read
 
